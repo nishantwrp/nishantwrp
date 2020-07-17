@@ -10,7 +10,7 @@ Currently I am working on my Google Summer of Code project with Oppia.
 
 - 👨‍💻 All of my projects are available at [https://www.nishantwrp.com/categories/project/](https://www.nishantwrp.com/categories/project/)
 
-- 📝 I regulary write articles on [https://www.nishantwrp.com/categories/blog/](https://www.nishantwrp.com/categories/blog/)
+- 📝 Blog posts -> [https://www.nishantwrp.com/categories/blog/](https://www.nishantwrp.com/categories/blog/)
 
 - 📫 How to reach me **admin@nishantwrp.com**
 
