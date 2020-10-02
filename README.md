@@ -6,8 +6,6 @@ I have experience in building REST APIs, JAMstack / full-stack web applications,
 
 I love contributing to the open source community whether be it contributing to open source software or building something that can be used by other developers.
 
-Currently I am working on my Google Summer of Code project with Oppia.
-
 - 👨‍💻 All of my projects are available at [https://www.nishantwrp.com/categories/project/](https://www.nishantwrp.com/categories/project/)
 
 - 📝 Blog posts -> [https://www.nishantwrp.com/categories/blog/](https://www.nishantwrp.com/categories/blog/)
