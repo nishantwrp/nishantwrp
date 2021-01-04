@@ -6,9 +6,9 @@ I have experience in building REST APIs, JAMstack / full-stack web applications,
 
 I love contributing to the open source community whether be it contributing to open source software or building something that can be used by other developers.
 
-- 👨‍💻 All of my projects are available at [https://www.nishantwrp.com/categories/project/](https://www.nishantwrp.com/categories/project/)
+- 👨‍💻 All of my projects are available at [https://www.nishantwrp.com/projects/](https://www.nishantwrp.com/projects/)
 
-- 📝 Blog posts -> [https://www.nishantwrp.com/categories/blog/](https://www.nishantwrp.com/categories/blog/)
+- 📝 Blog posts -> [https://www.nishantwrp.com/posts/](https://www.nishantwrp.com/posts/)
 
 - 📫 How to reach me **admin@nishantwrp.com**
 
