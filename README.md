@@ -10,7 +10,7 @@ I love contributing to the open source community whether be it contributing to o
 
 - 📝 Blog posts -> [https://www.nishantwrp.com/posts/](https://www.nishantwrp.com/posts/)
 
-- 📫 How to reach me **admin@nishantwrp.com**
+- 📫 How to contact me -> [Twitter](https://twitter.com/nishantwrp)
 
 <p align="center">
 <a href="https://twitter.com/nishantwrp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishantwrp" height="20" width="20" /></a>
