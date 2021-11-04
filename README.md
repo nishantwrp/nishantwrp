@@ -10,10 +10,10 @@ I love contributing to the open source community whether be it contributing to o
 
 - 📝 Blog posts -> [https://www.nishantwrp.com/posts/](https://www.nishantwrp.com/posts/)
 
-- 📫 How to contact me -> [Twitter](https://twitter.com/nishantwrp)
+- 📫 How to contact me -> [Twitter](https://urls.nishantwrp.com/twitter-github)
 
 <p align="center">
-<a href="https://twitter.com/nishantwrp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nishantwrp" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/nishantwrp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nishantwrp" height="20" width="20" /></a>
-<a href="https://fb.com/nishantwrp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nishantwrp" height="20" width="20" /></a>
+<a href="https://urls.nishantwrp.com/twitter-github" target="blank">Twitter</a> |
+<a href="https://urls.nishantwrp.com/linkedin-github" target="blank">LinkedIn</a> |
+<a href="https://urls.nishantwrp.com/site-github" target="blank">Site</a>
 </p>
