@@ -1,19 +1,37 @@
-<h1 align="center">Hi 👋, I'm Nishant Mittal</h1>
-<h3 align="center">A passionate programmer, a computer science undergraduate at IIT BHU, Varanasi.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantwrp" alt="nishantwrp" /> </p>
+### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://urls.nishantwrp.com/twitter-github" target="_blank">
+  <img align="left" alt="Nishant's Twitter" width="22px" src="./assets/twitter.svg" />
+</a>
+<a href="https://urls.nishantwrp.com/linkedin-github" target="_blank">
+  <img align="left" alt="Nishant's LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+<a href="https://urls.nishantwrp.com/site-github" target="_blank">
+  <img align="left" alt="Nishant's Site" width="22px" src="./assets/globe.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=nishantwrp" alt="Nishant's GH Visitor Count" />
 
-I have experience in building REST APIs, JAMstack / full-stack web applications, test-driven development. I love exploring new tech and have worked with various technologies and languages.
+I'm Nishant Mittal, a passionate software engineer, and a computer science undergraduate at IIT BHU, Varanasi. I love contributing to and building open source projects.
 
-I love contributing to the open source community whether be it contributing to open source software or building something that can be used by other developers.
+- ✨ Built [GSoC Organizations](https://www.gsocorganizations.dev/), contributing to [Focalboard](https://github.com/mattermost/focalboard).
+- 👨🏽‍💻 Looking for some cool projects to collaborate on.
+- 🌱 Learning GoLang & DevOps.
+- 🚀 Know more about my professional experience and achivements on [LinkedIn](https://urls.nishantwrp.com/linkedin-github).
+- 💬 Get in touch or Ask me Anything on [Twitter](https://urls.nishantwrp.com/twitter-github).
 
-- 👨‍💻 All of my projects are available at [https://www.nishantwrp.com/projects/](https://www.nishantwrp.com/projects/)
+<table><tr>
+<td valign="top" width="50%">
 
-- 📝 Blog posts -> [https://www.nishantwrp.com/posts/](https://www.nishantwrp.com/posts/)
+### 📱 Recent Tweets
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+➡️ [more tweets...](https://twitter.com/nishantwrp)
 
-- 📫 How to contact me -> [Twitter](https://urls.nishantwrp.com/twitter-github)
+</td>
+<td valign="top" width="50%">
 
-<p align="center">
-<a href="https://urls.nishantwrp.com/twitter-github" target="blank">Twitter</a> |
-<a href="https://urls.nishantwrp.com/linkedin-github" target="blank">LinkedIn</a> |
-<a href="https://urls.nishantwrp.com/site-github" target="blank">Site</a>
-</p>
+### ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</td>
+</tr></table>

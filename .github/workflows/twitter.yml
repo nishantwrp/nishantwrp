@@ -1,0 +1,17 @@
+name: Fetch latest tweets
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  update-readme-with-twitter:
+    name: Update this repo's README with latest tweets
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "TWITTER"
+          feed_list: "https://rss.app/feeds/HZNyHs5FRDSrVL00.xml"
+          commit_message: "Updated with the latest tweets"
+          committer_username: "twitter-bot"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
