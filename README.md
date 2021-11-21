@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Quicktip: If your terminal slows down due to nvm. You can lazy load it.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a06b79d814099768d06de2c116721589)
+- [@nishantwrp: Special Ops 1.5 is lit 🔥.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a36d75d6120e9764d168e7c714731d8d)
 - [@nishantwrp: Just updated my GitHub Readme 🙃.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a36a7bd6120d9169d060e8c211791d82)
 - [@paraschopra: You know you’re a generalist when the moment you suspect you’re getting good at something, you start lose interest in it.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f3ea0e0d1e18f1595946688f10ba4482c9bc169f7a46a75db110a9562d660e2c4117f10883c)
 - [@nishantwrp: Also, on the other hand after you get your sde job or internship. You’ll do dev there, not cp. So, it would benefit you a lot and make a good impression if you know dev beforehand.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a26b7eda14069064d468e6cb1b7d1582)
-- [@nishantwrp: Why can’t people understand that you can make it big if you excel in either of cp or dev. However, it would be great if you have balance because it’s a reality that many companies have coding rounds based on cp.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a26b7edb130a9160d260e2c6127a148e)
-- [@nishantwrp: Log cp vs dev krte krte time waste kr rhe aur in dono me se kuch nhi kr the. 😂😅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf6ab627dd810069763d06ae5c51a79158a)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
