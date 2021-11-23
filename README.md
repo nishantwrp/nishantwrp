@@ -36,11 +36,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#65](https://github.com/nishantwrp/gsoc-organizations/issues/65) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-2. 🗣 Commented on [#65](https://github.com/nishantwrp/gsoc-organizations/issues/65) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-3. 🗣 Commented on [#1730](https://github.com/mattermost/focalboard/issues/1730) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-4. 🗣 Commented on [#1825](https://github.com/mattermost/focalboard/issues/1825) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-5. 💪 Opened PR [#1734](https://github.com/mattermost/focalboard/pull/1734) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+1. 💪 Opened PR [#1856](https://github.com/mattermost/focalboard/pull/1856) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+2. ❗️ Closed issue [#65](https://github.com/nishantwrp/gsoc-organizations/issues/65) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+3. 🗣 Commented on [#65](https://github.com/nishantwrp/gsoc-organizations/issues/65) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+4. 🗣 Commented on [#1730](https://github.com/mattermost/focalboard/issues/1730) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+5. 🗣 Commented on [#1825](https://github.com/mattermost/focalboard/issues/1825) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 <!--END_SECTION:activity-->
 
 </td>
