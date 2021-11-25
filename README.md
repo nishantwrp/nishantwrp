@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: The @GithubUniverse 2021 tee. ✅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a16a79d715079664dd60e6c2157e1c82)
 - [@nishantwrp: Quicktip: If your terminal slows down due to nvm. You can lazy load it.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a06b79d814099768d06de2c116721589)
 - [@nishantwrp: Special Ops 1.5 is lit 🔥.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a36d75d6120e9764d168e7c714731d8d)
 - [@nishantwrp: Just updated my GitHub Readme 🙃.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a36a7bd6120d9169d060e8c211791d82)
 - [@paraschopra: You know you’re a generalist when the moment you suspect you’re getting good at something, you start lose interest in it.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f3ea0e0d1e18f1595946688f10ba4482c9bc169f7a46a75db110a9562d660e2c4117f10883c)
-- [@nishantwrp: Also, on the other hand after you get your sde job or internship. You’ll do dev there, not cp. So, it would benefit you a lot and make a good impression if you know dev beforehand.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a26b7eda14069064d468e6cb1b7d1582)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
