@@ -36,11 +36,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/flyteorg/flytekit-python-template/pull/17) in [flyteorg/flytekit-python-template](https://github.com/flyteorg/flytekit-python-template)
-2. 🗣 Commented on [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+1. 🗣 Commented on [#17](https://github.com/flyteorg/flytekit-python-template/issues/17) in [flyteorg/flytekit-python-template](https://github.com/flyteorg/flytekit-python-template)
+2. 💪 Opened PR [#17](https://github.com/flyteorg/flytekit-python-template/pull/17) in [flyteorg/flytekit-python-template](https://github.com/flyteorg/flytekit-python-template)
 3. 🗣 Commented on [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-4. ❗️ Opened issue [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-5. 🗣 Commented on [#1856](https://github.com/mattermost/focalboard/issues/1856) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. 🗣 Commented on [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+5. ❗️ Opened issue [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 <!--END_SECTION:activity-->
 
 </td>
