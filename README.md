@@ -36,11 +36,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/joplin/plugin-templates/pull/52) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-2. 🗣 Commented on [#1146](https://github.com/flyteorg/flyte/issues/1146) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
-3. 🗣 Commented on [#17](https://github.com/flyteorg/flytekit-python-template/issues/17) in [flyteorg/flytekit-python-template](https://github.com/flyteorg/flytekit-python-template)
-4. 💪 Opened PR [#17](https://github.com/flyteorg/flytekit-python-template/pull/17) in [flyteorg/flytekit-python-template](https://github.com/flyteorg/flytekit-python-template)
-5. 🗣 Commented on [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+1. 🎉 Merged PR [#52](https://github.com/joplin/plugin-templates/pull/52) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+2. ❗️ Closed issue [#8](https://github.com/joplin/plugin-templates/issues/8) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+3. 💪 Opened PR [#52](https://github.com/joplin/plugin-templates/pull/52) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+4. 🗣 Commented on [#1146](https://github.com/flyteorg/flyte/issues/1146) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
+5. 🗣 Commented on [#17](https://github.com/flyteorg/flytekit-python-template/issues/17) in [flyteorg/flytekit-python-template](https://github.com/flyteorg/flytekit-python-template)
 <!--END_SECTION:activity-->
 
 </td>
