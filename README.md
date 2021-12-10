@@ -36,11 +36,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1956](https://github.com/mattermost/focalboard/pull/1956) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-2. 💪 Opened PR [#1940](https://github.com/mattermost/focalboard/pull/1940) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-3. 🗣 Commented on [#1815](https://github.com/mattermost/focalboard/issues/1815) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-4. 🎉 Merged PR [#52](https://github.com/joplin/plugin-templates/pull/52) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-5. ❗️ Closed issue [#8](https://github.com/joplin/plugin-templates/issues/8) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+1. 💪 Opened PR [#234](https://github.com/flyteorg/flytectl/pull/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
+2. 💪 Opened PR [#1956](https://github.com/mattermost/focalboard/pull/1956) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+3. 💪 Opened PR [#1940](https://github.com/mattermost/focalboard/pull/1940) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. 🗣 Commented on [#1815](https://github.com/mattermost/focalboard/issues/1815) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+5. 🎉 Merged PR [#52](https://github.com/joplin/plugin-templates/pull/52) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 <!--END_SECTION:activity-->
 
 </td>
