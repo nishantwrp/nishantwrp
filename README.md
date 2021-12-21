@@ -36,11 +36,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/flyteorg/flytectl/issues/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
-2. 🗣 Commented on [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-3. 🗣 Commented on [#234](https://github.com/flyteorg/flytectl/issues/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
-4. 💪 Opened PR [#234](https://github.com/flyteorg/flytectl/pull/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
-5. 💪 Opened PR [#1956](https://github.com/mattermost/focalboard/pull/1956) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+1. 🗣 Commented on [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+2. 🗣 Commented on [#234](https://github.com/flyteorg/flytectl/issues/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
+3. 🗣 Commented on [#1888](https://github.com/mattermost/focalboard/issues/1888) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. 🗣 Commented on [#234](https://github.com/flyteorg/flytectl/issues/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
+5. 💪 Opened PR [#234](https://github.com/flyteorg/flytectl/pull/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
 <!--END_SECTION:activity-->
 
 </td>
