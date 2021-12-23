@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: When should a startup/product have a basic version of its landing page, social media accounts ready?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a16978d815079268d56ae1c5167a1589)
 - [@nishantwrp: Andaman 🏝🌊](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a06b74da100d9b63d26ae2ca177c1d8d)
 - [@nishantwrp: My first GoLang PR to @flyteorg got merged. 🥳](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5ab6c78dc100f9761d269e5c41a73148b)
 - [@nishantwrp: Writing e2e tests with @Cypress_io is so easy.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5aa637bd917099260d161e0c41b72178e)
 - [@nishantwrp: Just got introduced with gRPC. Looks really interesting.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a5637ed6130c9265d56de6c71a791482)
-- [@nishantwrp: Just noticed twitter account of Google Summer of Code &lpar;@gsoc&rpar; got deleted. 😮](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf5a56d74d612089260d06fe6c61572138a)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
