@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
-- [@nishantwrp: ❤️ @Focalboard #focalmug](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a1637fdd11079a62d369e0c11b721388)
-- [@nishantwrp: PS: The light up pen is really cool.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a16f78dc170d9360d468e7c7117d1d8c)
-- [@nishantwrp: Thanks for the swag @Mattermost! Had fun contributing to the project. #matterlife](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a16f78dd130d9567d76ae0c71a7e1d8f)
-- [@nishantwrp: When should a startup/product have a basic version of its landing page, social media accounts ready?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a16978d815079268d56ae1c5167a1589)
-- [@nishantwrp: Andaman 🏝🌊](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a06b74da100d9b63d26ae2ca177c1d8d)
+- [@nishantwrp: Pyenv and Poetry are really the saviours in the python chaos. #Python](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a76e7ad7120c9a65d761e4c0137a1188)
+- [@nishantwrp: What do @discord community mods do when there&#39;s a free nitro spam? Even if you ban the user and delete their messages. The channels are still highlighted like there&#39;s a new message.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a76974da13089b64d16de0c61a7a1288)
+- [@stevegraham: Men in tech will literally buy a maxed out MacBook Pro and a Herman Miller chair because “I spend 30-40% of my life using this, the expense is justified” and then spend 24/7 in the same couple of awfully fitting T-shirts they got for free from some startup 5 years ago.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c2bb7f7c7e5951b8d876a88f10ba4482c9bc169f7a56f7cd8170e9462d161e3c11778118f39)
+- [@nishantwrp: Is there a platform like @Polywork which can be used to track important life &amp; career updates. But also has a private mode so that only I can see my profile.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a76b7cd7100a9a68d661e0c11b73108a)
+- [@nishantwrp: Just watched this super informative and well structured Kubernetes tutorial. Highly recommend this to DevOps beginners like me.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a66c74d711079060d76ae4c5137e168b)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
