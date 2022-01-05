@@ -36,11 +36,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/layer5io/learn-layer5/pull/86) in [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
-2. 🗣 Commented on [#38](https://github.com/COPS-IITBHU/sdg-site/issues/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-3. 🗣 Commented on [#1917](https://github.com/mattermost/focalboard/issues/1917) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-4. 💪 Opened PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 🗣 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764) in [laurent22/joplin](https://github.com/laurent22/joplin)
+1. ❗️ Opened issue [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+2. 💪 Opened PR [#86](https://github.com/layer5io/learn-layer5/pull/86) in [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
+3. 🗣 Commented on [#38](https://github.com/COPS-IITBHU/sdg-site/issues/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
+4. 🗣 Commented on [#1917](https://github.com/mattermost/focalboard/issues/1917) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+5. 💪 Opened PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
 <!--END_SECTION:activity-->
 
 </td>
