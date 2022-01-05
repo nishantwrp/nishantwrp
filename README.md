@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: .@Docker desktop has built-in support for running kubernetes cluster. Nice!! 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4aa6b7cdd1d0a9762d16fe7c11b7b1088)
 - [@nishantwrp: Already missing this place 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a56c7bdc100e9761d76ee0ca147f1d82)
 - [@nishantwrp: Happy new year everyone!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a46375d913079666d36ae1c71278148d)
 - [@nishantwrp: The top 5 most viewed open source organisations during this time.- @FiveTwoN - @aossie_org - @Wikimedia - @AboutCodeOrg - @oppiaorg #opensource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a4637fdb1c0f9268dd69e1c61072108d)
 - [@nishantwrp: GSoC removing &quot;student-only&quot; policy for applicants made a lot of people interested in this program. GSoC is really a great way to get into open source 🚀. #OpenSource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a46c7ed91c099662d561e8c0137e1082)
-- [@nishantwrp: Woah! 2.1k users in last 90 days on . That&#39;s way more than there were this time last year.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a46c7eda1c0d9261dd68e5c5157f108a)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
