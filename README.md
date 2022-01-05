@@ -37,10 +37,10 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 ### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-2. ❗️ Opened issue [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-3. 💪 Opened PR [#86](https://github.com/layer5io/learn-layer5/pull/86) in [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
-4. 🗣 Commented on [#38](https://github.com/COPS-IITBHU/sdg-site/issues/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
-5. 🗣 Commented on [#1917](https://github.com/mattermost/focalboard/issues/1917) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+2. 🗣 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+3. ❗️ Opened issue [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+4. 💪 Opened PR [#86](https://github.com/layer5io/learn-layer5/pull/86) in [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
+5. 🗣 Commented on [#38](https://github.com/COPS-IITBHU/sdg-site/issues/38) in [COPS-IITBHU/sdg-site](https://github.com/COPS-IITBHU/sdg-site)
 <!--END_SECTION:activity-->
 
 </td>
