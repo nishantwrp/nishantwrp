@@ -37,6 +37,5 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 
-
 </td>
 </tr></table>
