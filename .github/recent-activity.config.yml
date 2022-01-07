@@ -1,0 +1,5 @@
+settings:
+  disabled_events: []
+  max_lines: 10
+  commit_username: albusbot
+  commit_email: bot@nishantwrp.com

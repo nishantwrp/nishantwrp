@@ -1,7 +1,7 @@
 name: Fetch github activity
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 jobs:
   build:
@@ -9,6 +9,6 @@ jobs:
     name: Update this repo's README with recent github activity
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

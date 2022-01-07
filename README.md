@@ -35,13 +35,13 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 <td valign="top" width="50%">
 
 ### ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 🗣 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 2. 🗣 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 3. 🗣 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 4. ❗️ Opened issue [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 5. 💪 Opened PR [#86](https://github.com/layer5io/learn-layer5/pull/86) in [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 </td>
 </tr></table>

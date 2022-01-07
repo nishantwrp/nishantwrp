@@ -14,5 +14,5 @@ jobs:
           comment_tag_name: "TWITTER"
           feed_list: "https://rss.app/feeds/HZNyHs5FRDSrVL00.xml"
           commit_message: "Updated with the latest tweets"
-          committer_username: "twitter-bot"
-          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          committer_username: "albusbot"
+          committer_email: "bot@nishantwrp.com"
