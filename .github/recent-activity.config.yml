@@ -1,5 +1,16 @@
 settings:
   disabled_events: []
+  whitelisted_events:
+    - comments
+    - create_repo
+    - fork
+    - issues
+    - member
+    - pr
+    - release
+    - review
+    - star
+    - wiki
   max_lines: 10
   commit_username: albusbot
   commit_email: bot@nishantwrp.com
