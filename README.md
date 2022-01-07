@@ -36,6 +36,17 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. ❗️ Opened issue [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+3. 💪 Opened PR [#86](https://github.com/layer5io/learn-layer5/pull/86) in [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
+4. 🔱 Forked [nishantwrp/learn-layer5](https://github.com/nishantwrp/learn-layer5) from [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
+5. 💪 Opened PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+6. ⭐ Starred [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+7. ⭐ Starred [mattermost/focalboard](https://github.com/mattermost/focalboard)
+8. 💪 Opened PR [#234](https://github.com/flyteorg/flytectl/pull/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
+9. 🔱 Forked [nishantwrp/flytectl](https://github.com/nishantwrp/flytectl) from [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
+10. 💪 Opened PR [#1956](https://github.com/mattermost/focalboard/pull/1956) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+<!--RECENT_ACTIVITY:end-->
 
 </td>
 </tr></table>
