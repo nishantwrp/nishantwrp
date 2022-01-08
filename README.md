@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. ❗️ Opened issue [#2041](https://github.com/mattermost/focalboard/issues/2041) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-4. 💪 Opened PR [#86](https://github.com/layer5io/learn-layer5/pull/86) in [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
-5. 🔱 Forked [nishantwrp/learn-layer5](https://github.com/nishantwrp/learn-layer5) from [layer5io/learn-layer5](https://github.com/layer5io/learn-layer5)
-6. 💪 Opened PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-7. ⭐ Starred [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-8. ⭐ Starred [mattermost/focalboard](https://github.com/mattermost/focalboard)
-9. 💪 Opened PR [#234](https://github.com/flyteorg/flytectl/pull/234) in [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
-10. 🔱 Forked [nishantwrp/flytectl](https://github.com/nishantwrp/flytectl) from [flyteorg/flytectl](https://github.com/flyteorg/flytectl)
+1. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007922137) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007921145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007918652) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007917739) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 💬 Commented on [#67](https://github.com/nishantwrp/gsoc-organizations/issues/67#issuecomment-1007764785) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+6. ❗️ Opened issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. 💬 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041#issuecomment-1007388316) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+8. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+9. 💬 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041#issuecomment-1005716023) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+10. 💬 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041#issuecomment-1005435073) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
