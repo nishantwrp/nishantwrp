@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1008008884) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ✔️ Closed issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007922137) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007921145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007918652) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007917739) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. 💬 Commented on [#67](https://github.com/nishantwrp/gsoc-organizations/issues/67#issuecomment-1007764785) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-8. ❗️ Opened issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. 💬 Commented on [#2041](https://github.com/mattermost/focalboard/issues/2041#issuecomment-1007388316) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-10. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. ⭐ Starred [querycap/istio](https://github.com/querycap/istio)
+2. 💬 Commented on [#83](https://github.com/querycap/istio/issues/83#issuecomment-1008155316) in [querycap/istio](https://github.com/querycap/istio)
+3. ✔️ Closed issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
+4. ❗️ Opened issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
+5. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1008008884) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ✔️ Closed issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007922137) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007921145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007918652) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007917739) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
