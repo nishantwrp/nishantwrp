@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: The developer urge to over engineer everything and not get anything completed.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba26e78df140a9561d269e9c11b7f1c83)
+- [@nishantwrp: This really got me thinking. Is open source worth it? #OpenSource #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4ab6e7fd6130a9264d26de2c7177d1083)
+- [@codeforreal_: For anyone who dont know the context](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c30b6e4c4ed950880876bf8ad0cb15d2d9d9d77f2a66d74dc120c9266dc60e3c41b7c158d3fcc)
+- [@marak: NPM has reverted to a previous version of the faker.js package and Github has suspended my access to all public and private projects. I have 100s of projects. #AaronSwartz](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e123ea0e0c9ad940e849272d4ad4ef10b60dade68fba26974db1c079060d26ae5)
 - [@Mattermost: Mattermost v6.2 is now generally available. 🎉 Huge THANK YOU! to all our contributors! 🚀🚀#mattermost #devops #sre #opensource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e323ea6f5c7f08a15969228d4f61eb1492ac7df6cf4aa6d7bdb10079464d46de1c71678108b)
-- [@nishantwrp: .@Docker desktop has built-in support for running kubernetes cluster. Nice!! 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4aa6b7cdd1d0a9762d16fe7c11b7b1088)
-- [@nishantwrp: Already missing this place 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a56c7bdc100e9761d76ee0ca147f1d82)
-- [@nishantwrp: Happy new year everyone!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a46375d913079666d36ae1c71278148d)
-- [@nishantwrp: The top 5 most viewed open source organisations during this time.- @FiveTwoN - @aossie_org - @Wikimedia - @AboutCodeOrg - @oppiaorg #opensource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4a4637fdb1c0f9268dd69e1c61072108d)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
