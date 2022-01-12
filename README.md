@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1874](https://github.com/flyteorg/flyte/issues/1874#issuecomment-1008259267) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
-2. ⭐ Starred [querycap/istio](https://github.com/querycap/istio)
-3. 💬 Commented on [#83](https://github.com/querycap/istio/issues/83#issuecomment-1008155316) in [querycap/istio](https://github.com/querycap/istio)
-4. ✔️ Closed issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
-5. ❗️ Opened issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
-6. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1008008884) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ✔️ Closed issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007922137) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007921145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007918652) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 🎉 Merged PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+2. 💬 Commented on [#1874](https://github.com/flyteorg/flyte/issues/1874#issuecomment-1008259267) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
+3. ⭐ Starred [querycap/istio](https://github.com/querycap/istio)
+4. 💬 Commented on [#83](https://github.com/querycap/istio/issues/83#issuecomment-1008155316) in [querycap/istio](https://github.com/querycap/istio)
+5. ✔️ Closed issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
+6. ❗️ Opened issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
+7. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1008008884) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ✔️ Closed issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007922137) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+10. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1007921145) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
