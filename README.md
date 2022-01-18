@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Wordle 212 6/6ngl. Never heard of this word.⬛⬛⬛🟨🟨⬛🟨⬛⬛⬛⬛🟨⬛⬛🟩⬛⬛🟨🟨🟩⬛🟨⬛🟨⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba0627ddf14089164d061e0c511731c83)
+- [@kunalb11: Judge the competence and intent of the feedback giver and never their tone or words.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e142abce0cee0d64bca9573c6f60ab61368dcd66af5a66975da1d0d9064d260e6c1117c)
+- [@nishantwrp: Wordle 211 5/6. ⬛🟨🟨🟩⬛⬛⬛⬛⬛⬛⬛⬛🟨🟨⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba06e7bde120c9360dc6fe5c01a7f1c8b)
+- [@nishantwrp: Wordle 210 4/6ezpz 🟩🟨🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜🟨🟩🟨🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba0687bdc120f9566d060e3c31373108a)
 - [@nishantwrp: Wordle 209 6/6#Wordle ⬜⬜⬜⬜⬜⬜🟩⬜⬜⬜⬜🟩🟨⬜🟨⬜⬜⬜⬜🟩⬜🟩🟩🟨🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba3637dda1c079269dc60e9c1177c158d)
-- [@nishantwrp: The developer urge to over engineer everything and not get anything completed.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba26e78df140a9561d269e9c11b7f1c83)
-- [@nishantwrp: This really got me thinking. Is open source worth it? #OpenSource #DEVCommunity](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cf4ab6e7fd6130a9264d26de2c7177d1083)
-- [@codeforreal_: For anyone who dont know the context](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c30b6e4c4ed950880876bf8ad0cb15d2d9d9d77f2a66d74dc120c9266dc60e3c41b7c158d3fcc)
-- [@marak: NPM has reverted to a previous version of the faker.js package and Github has suspended my access to all public and private projects. I have 100s of projects. #AaronSwartz](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e123ea0e0c9ad940e849272d4ad4ef10b60dade68fba26974db1c079060d26ae5)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
