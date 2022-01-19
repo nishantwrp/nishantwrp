@@ -12,7 +12,7 @@
 
 I'm Nishant Mittal, a passionate software engineer, and a computer science undergraduate at IIT BHU, Varanasi. I love contributing to and building open source projects.
 
-- ✨ Built [GSoC Organizations](https://www.gsocorganizations.dev/), contributing to [Focalboard](https://github.com/mattermost/focalboard).
+- ✨ Built [GSoC Organizations](https://www.gsocorganizations.dev/).
 - 👨🏽‍💻 Looking for some cool projects to collaborate on.
 - 🌱 Learning GoLang & DevOps.
 - 🚀 Know more about my professional experience and achievements on [LinkedIn](https://urls.nishantwrp.com/linkedin-github).
