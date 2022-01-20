@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Wordle 215 6/6Letter repeat hote h. Ye kaun bataega. ⬛⬛⬛🟩⬛🟨🟨⬛⬛⬛⬛🟨⬛⬛⬛⬛⬛⬛🟩🟩🟨⬛⬛⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba16274df130a9668d06fe0c7167b1083)
+- [@nishantwrp: Wordle 214 4/6 This game is pointless.⬛⬛🟨🟨🟨⬛⬛🟩⬛⬛🟩⬛⬛🟩⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba16f7fd91c0b9366d76be0cb127b158d)
 - [@nishantwrp: Wordle 212 6/6ngl. Never heard of this word.⬛⬛⬛🟨🟨⬛🟨⬛⬛⬛⬛🟨⬛⬛🟩⬛⬛🟨🟨🟩⬛🟨⬛🟨⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba0627ddf14089164d061e0c511731c83)
 - [@kunalb11: Judge the competence and intent of the feedback giver and never their tone or words.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e142abce0cee0d64bca9573c6f60ab61368dcd66af5a66975da1d0d9064d260e6c1117c)
 - [@nishantwrp: Wordle 211 5/6. ⬛🟨🟨🟩⬛⬛⬛⬛⬛⬛⬛⬛🟨🟨⬛🟩🟩🟩⬛🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba06e7bde120c9360dc6fe5c01a7f1c8b)
-- [@nishantwrp: Wordle 210 4/6ezpz 🟩🟨🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜🟨🟩🟨🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba0687bdc120f9566d060e3c31373108a)
-- [@nishantwrp: Wordle 209 6/6#Wordle ⬜⬜⬜⬜⬜⬜🟩⬜⬜⬜⬜🟩🟨⬜🟨⬜⬜⬜⬜🟩⬜🟩🟩🟨🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba3637dda1c079269dc60e9c1177c158d)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
