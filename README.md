@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1018643981) in [laurent22/joplin](https://github.com/laurent22/joplin)
-2. 🎉 Merged PR [#117](https://github.com/nishantwrp/nishantwrp-website/pull/117) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-3. 🎉 Merged PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-4. 💬 Commented on [#1874](https://github.com/flyteorg/flyte/issues/1874#issuecomment-1008259267) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
-5. ⭐ Starred [querycap/istio](https://github.com/querycap/istio)
-6. 💬 Commented on [#83](https://github.com/querycap/istio/issues/83#issuecomment-1008155316) in [querycap/istio](https://github.com/querycap/istio)
-7. ✔️ Closed issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
-8. ❗️ Opened issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
-9. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1008008884) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-10. ✔️ Closed issue [#146](https://github.com/Readme-Workflows/recent-activity/issues/146) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
+2. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1018643981) in [laurent22/joplin](https://github.com/laurent22/joplin)
+3. 🎉 Merged PR [#117](https://github.com/nishantwrp/nishantwrp-website/pull/117) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+4. 🎉 Merged PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+5. 💬 Commented on [#1874](https://github.com/flyteorg/flyte/issues/1874#issuecomment-1008259267) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
+6. ⭐ Starred [querycap/istio](https://github.com/querycap/istio)
+7. 💬 Commented on [#83](https://github.com/querycap/istio/issues/83#issuecomment-1008155316) in [querycap/istio](https://github.com/querycap/istio)
+8. ✔️ Closed issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
+9. ❗️ Opened issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
+10. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1008008884) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
