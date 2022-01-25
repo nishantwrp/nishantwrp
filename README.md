@@ -8,6 +8,7 @@
 <a href="https://urls.nishantwrp.com/site-github" target="_blank">
   <img align="left" alt="Nishant's Site" width="22px" src="./assets/globe.svg" />
 </a>
+<br /><br />
 
 I'm Nishant Mittal, a passionate software engineer, and a computer science undergraduate at IIT BHU, Varanasi. I love contributing to and building open source projects.
 
