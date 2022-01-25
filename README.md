@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: How old were you when you came to know that the complete @Google 2 billion lines codebase is a monorepo. 🤯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba76d7edf1c0c9262d26ee9c4117f1d8b)
 - [@nishantwrp: Techworld with Nana is the best DevOps YouTube channel I&#39;ve come across. Thanks @Njuchi_!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba66c7cd711069068d56fe2cb107c1282)
 - [@nishantwrp: Wordle 217 5/6⬛⬛⬛⬛🟩⬛⬛⬛🟨🟨🟩⬛⬛⬛⬛🟩⬛🟨🟨🟩🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba66c7cde110c9162d669e5c21b7d1389)
 - [@BeerBicepsGuy: You’ll make big money in the long term if you make small financial sacrifices in the short term.Big money is won through professional relationships &amp; consistent hard work. Not through accumulating pennies over the course of your career.Say no to penniesSay yes to teamwork](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3d3ab7f3e0eb841f959540d2fb50b648389c9b2beca36e75db110f9768d56fe3c416781c8932c265)
 - [@nishantwrp: Wordle 216 4/6🟩⬛🟨⬛⬛⬛🟩⬛⬛⬛🟨🟩🟩⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba6687ed810099061d36ee3ca15731389)
-- [@nishantwrp: Wordle 215 6/6Letter repeat hote h. Ye kaun bataega. ⬛⬛⬛🟩⬛🟨🟨⬛⬛⬛⬛🟨⬛⬛⬛⬛⬛⬛🟩🟩🟨⬛⬛⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba16274df130a9668d06fe0c7167b1083)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
