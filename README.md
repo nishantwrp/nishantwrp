@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
-2. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1018643981) in [laurent22/joplin](https://github.com/laurent22/joplin)
-3. 🎉 Merged PR [#117](https://github.com/nishantwrp/nishantwrp-website/pull/117) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-4. 🎉 Merged PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 💬 Commented on [#1874](https://github.com/flyteorg/flyte/issues/1874#issuecomment-1008259267) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
-6. ⭐ Starred [querycap/istio](https://github.com/querycap/istio)
-7. 💬 Commented on [#83](https://github.com/querycap/istio/issues/83#issuecomment-1008155316) in [querycap/istio](https://github.com/querycap/istio)
-8. ✔️ Closed issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
-9. ❗️ Opened issue [#83](https://github.com/querycap/istio/issues/83) in [querycap/istio](https://github.com/querycap/istio)
-10. 💬 Commented on [#146](https://github.com/Readme-Workflows/recent-activity/issues/146#issuecomment-1008008884) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021638340) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+2. ✌️ Released [v2.2.1](https://github.com/joplin/plugin-templates/releases/tag/v2.2.1) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+3. ✔️ Closed issue [#55](https://github.com/joplin/plugin-templates/issues/55) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+4. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021605895) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+5. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
+6. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1018643981) in [laurent22/joplin](https://github.com/laurent22/joplin)
+7. 🎉 Merged PR [#117](https://github.com/nishantwrp/nishantwrp-website/pull/117) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+8. 🎉 Merged PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+9. 💬 Commented on [#1874](https://github.com/flyteorg/flyte/issues/1874#issuecomment-1008259267) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
+10. ⭐ Starred [querycap/istio](https://github.com/querycap/istio)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
