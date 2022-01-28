@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: What&#39;s the best place to check how much a company pays? I don&#39;t think @Glassdoor is accurate and @LeetCode discuss has very few companies.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba46c79da17089265d46ce3c310781183)
 - [@nishantwrp: I started with @vuejs but I don’t know why I like @reactjs more now. It’s just so simple and I am literally just writing js inside html.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba46e78d6110b9762d668e3c4127c178d)
 - [@nishantwrp: Isn’t @nextjs just awesome 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba46e78d6150e9461d66ae8ca1678168f)
 - [@nishantwrp: Just made the 100th commit to my @joplinapp plugin which I made during gsoc. #OpenSource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba46b7dda15069466d561e0c3137e1183)
 - [@nishantwrp: My GitHub profile readme views counter just got reset 🥲.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba46a74dd15089265d368e4c21778108e)
-- [@nishantwrp: Stopped sharing wordle results for a while but had to share it today. Since, it&#39;s the first time I got it in 3 attempts.Wordle 221 3/6⬛⬛🟩⬛⬛🟩⬛⬛⬛⬛🟩🟩🟩🟩🟩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba46a78de140b9061d36fe4ca1679118d)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
