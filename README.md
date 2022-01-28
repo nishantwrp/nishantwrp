@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#56](https://github.com/joplin/plugin-templates/issues/56#issuecomment-1023424466) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-2. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021638340) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-3. ✌️ Released [v2.2.1](https://github.com/joplin/plugin-templates/releases/tag/v2.2.1) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-4. ✔️ Closed issue [#55](https://github.com/joplin/plugin-templates/issues/55) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-5. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021605895) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-6. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
-7. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1018643981) in [laurent22/joplin](https://github.com/laurent22/joplin)
-8. 🎉 Merged PR [#117](https://github.com/nishantwrp/nishantwrp-website/pull/117) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-9. 🎉 Merged PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-10. 💬 Commented on [#1874](https://github.com/flyteorg/flyte/issues/1874#issuecomment-1008259267) in [flyteorg/flyte](https://github.com/flyteorg/flyte)
+1. 💬 Commented on [#57](https://github.com/joplin/plugin-templates/issues/57#issuecomment-1024414319) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+2. 💬 Commented on [#56](https://github.com/joplin/plugin-templates/issues/56#issuecomment-1023424466) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+3. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021638340) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+4. ✌️ Released [v2.2.1](https://github.com/joplin/plugin-templates/releases/tag/v2.2.1) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+5. ✔️ Closed issue [#55](https://github.com/joplin/plugin-templates/issues/55) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+6. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021605895) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+7. ⭐ Starred [caddyserver/caddy](https://github.com/caddyserver/caddy)
+8. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1018643981) in [laurent22/joplin](https://github.com/laurent22/joplin)
+9. 🎉 Merged PR [#117](https://github.com/nishantwrp/nishantwrp-website/pull/117) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+10. 🎉 Merged PR [#66](https://github.com/nishantwrp/gsoc-organizations/pull/66) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
