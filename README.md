@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879904) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-2. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879442) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-3. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+1. 💪 Opened PR [#68](https://github.com/nishantwrp/gsoc-organizations/pull/68) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+2. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879904) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+3. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879442) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
 4. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
-5. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)
-6. 💬 Commented on [#57](https://github.com/joplin/plugin-templates/issues/57#issuecomment-1024414319) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-7. 💬 Commented on [#56](https://github.com/joplin/plugin-templates/issues/56#issuecomment-1023424466) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-8. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021638340) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-9. ✌️ Released [v2.2.1](https://github.com/joplin/plugin-templates/releases/tag/v2.2.1) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-10. ✔️ Closed issue [#55](https://github.com/joplin/plugin-templates/issues/55) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+5. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+6. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)
+7. 💬 Commented on [#57](https://github.com/joplin/plugin-templates/issues/57#issuecomment-1024414319) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+8. 💬 Commented on [#56](https://github.com/joplin/plugin-templates/issues/56#issuecomment-1023424466) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+9. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021638340) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+10. ✌️ Released [v2.2.1](https://github.com/joplin/plugin-templates/releases/tag/v2.2.1) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
