@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Working on adding projects info to . Will complete it when I get time but till then do checkout the deploy preview.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbab6874df160c9a64d26ce9c01579128f)
+- [@nishantwrp: The kind of questions I get on LinkedIn make me wonder if people really need guidance.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbab6b7ad61c099064d761e1c11a7b1c8b)
 - [@nishantwrp: .@nextjs can do everything that @GatsbyJS can. Am I right or am missing something?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbaa6375d81d0d9760d06be8c7167e128a)
 - [@nishantwrp: Whenever an influencer says something about hustle culture,why do everyone interpret it as hustling is bad. I think their point is more like you don’t have to forcefully hustle.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbaa6a75de110b9069d66de7ca1a7c148e)
 - [@NavalismHQ: &quot;Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you’re retired.&quot;@naval](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e313ea4e0ceeb9417adb728d4f61eb1492ac7df6cfbaa6a7ada170d9a66d36fe0c6177c1683)
-- [@nishantwrp: I think I take more time to build something vs when I was a beginner. Because now I try to take care of a lot of things like best practices, optimised code, etc. Does it happen to anyone else as well?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba56f78dc1d0e9b62d56de1c6107d1c82)
-- [@nishantwrp: It makes my day when I see linkedin posts/tweets like this using . Glad that I could build something useful.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfba56a7ade11089662d169e3c01a791c83)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
