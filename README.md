@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Ashneer Grover is an example that if you’re rich and successful enough, you don’t need to justify or defend yourself. People will do it for you.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfaa26f74de1c079a60d46de3c2137c1d89)
 - [@nishantwrp: Vasant pachmi 🪁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfaa26a78de1c069a61dc6be7c1127c168b)
 - [@nishantwrp: I have an expired domain which I don’t want to renew. Got 20 emails and 5 calls from @GoDaddy about it.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbab6278dc15069360dc60e8cb15791083)
 - [@nishantwrp: This is one thing that I strongly believe in.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbab6d75d6160f9b60d16ee7c511721682)
 - [@nishantwrp: Working on adding projects info to . Will complete it when I get time but till then do checkout the deploy preview.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbab6874df160c9a64d26ce9c01579128f)
-- [@nishantwrp: The kind of questions I get on LinkedIn make me wonder if people really need guidance.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfbab6b7ad61c099064d761e1c11a7b1c8b)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
