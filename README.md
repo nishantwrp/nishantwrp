@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4203](https://github.com/laurent22/joplin/issues/4203#issuecomment-1032801477) in [laurent22/joplin](https://github.com/laurent22/joplin)
-2. 💪 Opened PR [#68](https://github.com/nishantwrp/gsoc-organizations/pull/68) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-3. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879904) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-4. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879442) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-5. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+1. 🎉 Merged PR [#68](https://github.com/nishantwrp/gsoc-organizations/pull/68) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+2. 💬 Commented on [#4203](https://github.com/laurent22/joplin/issues/4203#issuecomment-1032801477) in [laurent22/joplin](https://github.com/laurent22/joplin)
+3. 💪 Opened PR [#68](https://github.com/nishantwrp/gsoc-organizations/pull/68) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+4. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879904) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+5. 💬 Commented on [#82](https://github.com/nishantwrp/nishantwrp-website/issues/82#issuecomment-1027879442) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
 6. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
-7. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)
-8. 💬 Commented on [#57](https://github.com/joplin/plugin-templates/issues/57#issuecomment-1024414319) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-9. 💬 Commented on [#56](https://github.com/joplin/plugin-templates/issues/56#issuecomment-1023424466) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-10. 💬 Commented on [#55](https://github.com/joplin/plugin-templates/issues/55#issuecomment-1021638340) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+7. ⭐ Starred [slidevjs/slidev](https://github.com/slidevjs/slidev)
+8. ⭐ Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)
+9. 💬 Commented on [#57](https://github.com/joplin/plugin-templates/issues/57#issuecomment-1024414319) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+10. 💬 Commented on [#56](https://github.com/joplin/plugin-templates/issues/56#issuecomment-1023424466) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
