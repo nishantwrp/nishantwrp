@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#123](https://github.com/nishantwrp/nishantwrp-website/pull/123) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-2. 🎉 Merged PR [#19](https://github.com/nishantwrp/vue-gitalk/pull/19) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-3. ⭐ Starred [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-4. ⭐ Starred [nishantwrp/microservices-example](https://github.com/nishantwrp/microservices-example)
-5. ⭐ Starred [shivanshs9/drf-problems](https://github.com/shivanshs9/drf-problems)
-6. 🎉 Merged PR [#18](https://github.com/nishantwrp/vue-gitalk/pull/18) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-7. 🎉 Merged PR [#121](https://github.com/nishantwrp/nishantwrp-website/pull/121) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-8. 🎉 Merged PR [#118](https://github.com/nishantwrp/nishantwrp-website/pull/118) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-9. 🎉 Merged PR [#119](https://github.com/nishantwrp/nishantwrp-website/pull/119) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-10. 🎉 Merged PR [#120](https://github.com/nishantwrp/nishantwrp-website/pull/120) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+1. 🎉 Merged PR [#20](https://github.com/nishantwrp/vue-gitalk/pull/20) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+2. 🎉 Merged PR [#123](https://github.com/nishantwrp/nishantwrp-website/pull/123) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+3. 🎉 Merged PR [#19](https://github.com/nishantwrp/vue-gitalk/pull/19) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+4. ⭐ Starred [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+5. ⭐ Starred [nishantwrp/microservices-example](https://github.com/nishantwrp/microservices-example)
+6. ⭐ Starred [shivanshs9/drf-problems](https://github.com/shivanshs9/drf-problems)
+7. 🎉 Merged PR [#18](https://github.com/nishantwrp/vue-gitalk/pull/18) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+8. 🎉 Merged PR [#121](https://github.com/nishantwrp/nishantwrp-website/pull/121) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+9. 🎉 Merged PR [#118](https://github.com/nishantwrp/nishantwrp-website/pull/118) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+10. 🎉 Merged PR [#119](https://github.com/nishantwrp/nishantwrp-website/pull/119) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
