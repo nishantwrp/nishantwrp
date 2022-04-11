@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 2 change(s) for [#63](https://github.com/joplin/plugin-templates/pull/63#pullrequestreview-929969594) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-2. 💬 Commented on [#12](https://github.com/joplin/plugin-templates/issues/12#issuecomment-1083075927) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-3. 🎉 Merged PR [#20](https://github.com/nishantwrp/vue-gitalk/pull/20) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-4. 🎉 Merged PR [#123](https://github.com/nishantwrp/nishantwrp-website/pull/123) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-5. 🎉 Merged PR [#19](https://github.com/nishantwrp/vue-gitalk/pull/19) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-6. ⭐ Starred [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-7. ⭐ Starred [nishantwrp/microservices-example](https://github.com/nishantwrp/microservices-example)
-8. ⭐ Starred [shivanshs9/drf-problems](https://github.com/shivanshs9/drf-problems)
-9. 🎉 Merged PR [#18](https://github.com/nishantwrp/vue-gitalk/pull/18) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-10. 🎉 Merged PR [#121](https://github.com/nishantwrp/nishantwrp-website/pull/121) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+1. 🎉 Merged PR [#124](https://github.com/nishantwrp/nishantwrp-website/pull/124) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+2. 🔴 Requested 2 change(s) for [#63](https://github.com/joplin/plugin-templates/pull/63#pullrequestreview-929969594) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+3. 💬 Commented on [#12](https://github.com/joplin/plugin-templates/issues/12#issuecomment-1083075927) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+4. 🎉 Merged PR [#20](https://github.com/nishantwrp/vue-gitalk/pull/20) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+5. 🎉 Merged PR [#123](https://github.com/nishantwrp/nishantwrp-website/pull/123) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+6. 🎉 Merged PR [#19](https://github.com/nishantwrp/vue-gitalk/pull/19) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+7. ⭐ Starred [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+8. ⭐ Starred [nishantwrp/microservices-example](https://github.com/nishantwrp/microservices-example)
+9. ⭐ Starred [shivanshs9/drf-problems](https://github.com/shivanshs9/drf-problems)
+10. 🎉 Merged PR [#18](https://github.com/nishantwrp/vue-gitalk/pull/18) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
