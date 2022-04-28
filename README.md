@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: 🫡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df2ab697ddf170e9b60dd61e1c31b781d83)
 - [@nishantwrp: Is @gridsome dead?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df2aa687fd9160d9666dc6fe1c21b7d128f)
 - [@nishantwrp: GSoC Organizations finally crossed 100 GitHub stars.  #GSoC #OpenSource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df3aa6978dd15079b60dc6ce8c513721483)
 - [@nishantwrp: Productiv India Meetup](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df3a46f79db17069565d66de0c7147c1782)
 - [@nishantwrp: Why not to bring politics to open-source. #OpenSource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfaab697bda1c099766d068e2cb177d1082)
-- [@nishantwrp: Tech twitter is mostly DevRel or aspiring DevRel, why does everyone want to become DevRel engineers?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6cfaaa637ad6170f9367dc6de4c41a7a1788)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
