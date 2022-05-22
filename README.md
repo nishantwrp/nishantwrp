@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Can anyone please suggest good office/gaming chairs that are not super expensive](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1a56c79d9160d9164d66be3cb10791c82)
 - [@kitarp29: It hurts to remove old stuff from your Resume 😢Stuff you once worked hard for...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1436a6e0d0f2d543ca9573c6f60ab61368dddf61faa06a7bd9120d9a69dc6ee8c7117d)
 - [@nishantwrp: 🫡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df2ab697ddf170e9b60dd61e1c31b781d83)
 - [@nishantwrp: Is @gridsome dead?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df2aa687fd9160d9666dc6fe1c21b7d128f)
 - [@nishantwrp: GSoC Organizations finally crossed 100 GitHub stars.  #GSoC #OpenSource](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df3aa6978dd15079b60dc6ce8c513721483)
-- [@nishantwrp: Productiv India Meetup](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df3a46f79db17069565d66de0c7147c1782)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
