@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-2. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879794258) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-3. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879793961) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-4. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879795765) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879794659) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-6. 🔴 Requested 2 change(s) for [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#pullrequestreview-982244485) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-7. ⭐ Starred [Marak/buddypond](https://github.com/Marak/buddypond)
-8. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#issuecomment-1133286487) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-9. 🎉 Merged PR [#71](https://github.com/nishantwrp/gsoc-organizations/pull/71) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-10. 🎉 Merged PR [#21](https://github.com/nishantwrp/vue-gitalk/pull/21) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+1. 💬 Commented on [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73#issuecomment-1135720495) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+2. 🎉 Merged PR [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+3. 👍 Approved [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#pullrequestreview-982953319) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+4. ❗️ Opened issue [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+5. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879794258) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+6. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879793961) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+7. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879795765) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+8. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879794659) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+9. 🔴 Requested 2 change(s) for [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#pullrequestreview-982244485) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+10. ⭐ Starred [Marak/buddypond](https://github.com/Marak/buddypond)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
