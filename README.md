@@ -24,10 +24,10 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
 - [@nishantwrp: One of the things I really wanted to be a part of. @Google 🥺❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1aa6e7bdd15079b60dd6fe7c514721683)
+- [@luhblix: i be havin the most devious smile on my face before i click “notify anyway” on imessage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e132abae3ceeb9f55969266d3f70cea0d6cdad66cf0a76a78d610089562dd6fe5ca1a)
 - [@nishantwrp: Congrats everyone who got selected in GSoC. 🎉Make sure to make the most out of this opportunity and build something that you’ll be proud of later on.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1a56378d9100b9365d26ee4c3107b148a)
 - [@nishantwrp: Can anyone please suggest good office/gaming chairs that are not super expensive](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1a56c79d9160d9164d66be3cb10791c82)
 - [@kitarp29: It hurts to remove old stuff from your Resume 😢Stuff you once worked hard for...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1436a6e0d0f2d543ca9573c6f60ab61368dddf61faa06a7bd9120d9a69dc6ee8c7117d)
-- [@nishantwrp: 🫡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df2ab697ddf170e9b60dd61e1c31b781d83)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
