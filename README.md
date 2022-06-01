@@ -1,4 +1,4 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There <img src="./assets/wave.gif" width="25px">
 <a href="https://urls.nishantwrp.com/twitter-github" target="_blank">
   <img align="left" alt="Nishant's Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
