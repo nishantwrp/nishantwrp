@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1140324362) in [laurent22/joplin](https://github.com/laurent22/joplin)
-2. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-3. 👍 Approved [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2#pullrequestreview-987637479) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-4. 💬 Commented on [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73#issuecomment-1135720495) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 🎉 Merged PR [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-6. 👍 Approved [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#pullrequestreview-982953319) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-7. ❗️ Opened issue [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-8. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879794258) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-9. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879793961) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-10. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879795765) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+1. 🎉 Merged PR [#122](https://github.com/nishantwrp/nishantwrp-website/pull/122) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+2. 🎉 Merged PR [#126](https://github.com/nishantwrp/nishantwrp-website/pull/126) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
+3. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1140324362) in [laurent22/joplin](https://github.com/laurent22/joplin)
+4. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+5. 👍 Approved [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2#pullrequestreview-987637479) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+6. 💬 Commented on [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73#issuecomment-1135720495) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+7. 🎉 Merged PR [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+8. 👍 Approved [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#pullrequestreview-982953319) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+9. ❗️ Opened issue [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+10. 💬 Commented on [#72](https://github.com/nishantwrp/gsoc-organizations/pull/72#discussion_r879794258) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
