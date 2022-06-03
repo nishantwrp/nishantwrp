@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#66](https://github.com/joplin/plugin-templates/issues/66) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-2. ❗️ Opened issue [#65](https://github.com/joplin/plugin-templates/issues/65) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-3. 💪 Opened PR [#1](https://github.com/BeatLink/plugin-templates/pull/1) in [BeatLink/plugin-templates](https://github.com/BeatLink/plugin-templates)
-4. 🎉 Merged PR [#22](https://github.com/nishantwrp/vue-gitalk/pull/22) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-5. 🎉 Merged PR [#122](https://github.com/nishantwrp/nishantwrp-website/pull/122) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-6. 🎉 Merged PR [#126](https://github.com/nishantwrp/nishantwrp-website/pull/126) in [nishantwrp/nishantwrp-website](https://github.com/nishantwrp/nishantwrp-website)
-7. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1140324362) in [laurent22/joplin](https://github.com/laurent22/joplin)
-8. 🎉 Merged PR [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-9. 👍 Approved [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2#pullrequestreview-987637479) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-10. 💬 Commented on [#73](https://github.com/nishantwrp/gsoc-organizations/issues/73#issuecomment-1135720495) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+1. 🎉 Merged PR [#201](https://github.com/codefest-iit-bhu/codefest-app/pull/201) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+2. 🎉 Merged PR [#198](https://github.com/codefest-iit-bhu/codefest-app/pull/198) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+3. 🎉 Merged PR [#199](https://github.com/codefest-iit-bhu/codefest-app/pull/199) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+4. 🎉 Merged PR [#190](https://github.com/codefest-iit-bhu/codefest-app/pull/190) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+5. 🎉 Merged PR [#192](https://github.com/codefest-iit-bhu/codefest-app/pull/192) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+6. 🎉 Merged PR [#193](https://github.com/codefest-iit-bhu/codefest-app/pull/193) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+7. 🎉 Merged PR [#194](https://github.com/codefest-iit-bhu/codefest-app/pull/194) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+8. 🎉 Merged PR [#195](https://github.com/codefest-iit-bhu/codefest-app/pull/195) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+9. 🎉 Merged PR [#196](https://github.com/codefest-iit-bhu/codefest-app/pull/196) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+10. 🎉 Merged PR [#197](https://github.com/codefest-iit-bhu/codefest-app/pull/197) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
