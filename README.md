@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2#issuecomment-1146576319) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-2. 🎉 Merged PR [#76](https://github.com/nishantwrp/gsoc-organizations/pull/76) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-3. ✔️ Closed issue [#69](https://github.com/nishantwrp/gsoc-organizations/issues/69) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-4. ✔️ Closed issue [#70](https://github.com/nishantwrp/gsoc-organizations/issues/70) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 👍 Approved [#76](https://github.com/nishantwrp/gsoc-organizations/pull/76#pullrequestreview-995786066) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-6. 🎉 Merged PR [#201](https://github.com/codefest-iit-bhu/codefest-app/pull/201) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-7. 🎉 Merged PR [#198](https://github.com/codefest-iit-bhu/codefest-app/pull/198) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-8. 🎉 Merged PR [#199](https://github.com/codefest-iit-bhu/codefest-app/pull/199) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-9. 🎉 Merged PR [#190](https://github.com/codefest-iit-bhu/codefest-app/pull/190) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-10. 🎉 Merged PR [#192](https://github.com/codefest-iit-bhu/codefest-app/pull/192) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+1. ✌️ Released [v2.3.0](https://github.com/joplin/plugin-templates/releases/tag/v2.3.0) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+2. 🎉 Merged PR [#63](https://github.com/joplin/plugin-templates/pull/63) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+3. ✔️ Closed issue [#62](https://github.com/joplin/plugin-templates/issues/62) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+4. 👍 Approved [#63](https://github.com/joplin/plugin-templates/pull/63#pullrequestreview-995824227) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+5. 💬 Commented on [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2#issuecomment-1146576319) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+6. 🎉 Merged PR [#76](https://github.com/nishantwrp/gsoc-organizations/pull/76) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+7. ✔️ Closed issue [#69](https://github.com/nishantwrp/gsoc-organizations/issues/69) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+8. ✔️ Closed issue [#70](https://github.com/nishantwrp/gsoc-organizations/issues/70) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+9. 👍 Approved [#76](https://github.com/nishantwrp/gsoc-organizations/pull/76#pullrequestreview-995786066) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+10. 🎉 Merged PR [#201](https://github.com/codefest-iit-bhu/codefest-app/pull/201) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
