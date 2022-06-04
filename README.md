@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#201](https://github.com/codefest-iit-bhu/codefest-app/pull/201) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-2. 🎉 Merged PR [#198](https://github.com/codefest-iit-bhu/codefest-app/pull/198) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-3. 🎉 Merged PR [#199](https://github.com/codefest-iit-bhu/codefest-app/pull/199) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-4. 🎉 Merged PR [#190](https://github.com/codefest-iit-bhu/codefest-app/pull/190) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-5. 🎉 Merged PR [#192](https://github.com/codefest-iit-bhu/codefest-app/pull/192) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-6. 🎉 Merged PR [#193](https://github.com/codefest-iit-bhu/codefest-app/pull/193) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-7. 🎉 Merged PR [#194](https://github.com/codefest-iit-bhu/codefest-app/pull/194) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-8. 🎉 Merged PR [#195](https://github.com/codefest-iit-bhu/codefest-app/pull/195) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-9. 🎉 Merged PR [#196](https://github.com/codefest-iit-bhu/codefest-app/pull/196) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
-10. 🎉 Merged PR [#197](https://github.com/codefest-iit-bhu/codefest-app/pull/197) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+1. 💬 Commented on [#2](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/2#issuecomment-1146576319) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+2. 🎉 Merged PR [#76](https://github.com/nishantwrp/gsoc-organizations/pull/76) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+3. ✔️ Closed issue [#69](https://github.com/nishantwrp/gsoc-organizations/issues/69) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+4. ✔️ Closed issue [#70](https://github.com/nishantwrp/gsoc-organizations/issues/70) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+5. 👍 Approved [#76](https://github.com/nishantwrp/gsoc-organizations/pull/76#pullrequestreview-995786066) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+6. 🎉 Merged PR [#201](https://github.com/codefest-iit-bhu/codefest-app/pull/201) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+7. 🎉 Merged PR [#198](https://github.com/codefest-iit-bhu/codefest-app/pull/198) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+8. 🎉 Merged PR [#199](https://github.com/codefest-iit-bhu/codefest-app/pull/199) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+9. 🎉 Merged PR [#190](https://github.com/codefest-iit-bhu/codefest-app/pull/190) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
+10. 🎉 Merged PR [#192](https://github.com/codefest-iit-bhu/codefest-app/pull/192) in [codefest-iit-bhu/codefest-app](https://github.com/codefest-iit-bhu/codefest-app)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
