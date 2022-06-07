@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: now has organizations participating in GSoC 2022. Thanks to @busynoble03! 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a16b7ade150a9a63d260e1c1167d1c82)
+- [@nishantwrp: Finally have a desk setup! 😌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a16a7fdb11079662d36be7c110781c8e)
 - [@nishantwrp: Why is @instagram suddenly showing all the old posts of the people I follow on the top?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1ab6274de120c9560d768e3c7107d1388)
 - [@nishantwrp: One of the things I really wanted to be a part of. @Google 🥺❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1aa6e7bdd15079b60dd6fe7c514721683)
 - [@luhblix: i be havin the most devious smile on my face before i click “notify anyway” on imessage](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e132abae3ceeb9f55969266d3f70cea0d6cdad66cf0a76a78d610089562dd6fe5ca1a)
-- [@nishantwrp: Congrats everyone who got selected in GSoC. 🎉Make sure to make the most out of this opportunity and build something that you’ll be proud of later on.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1a56378d9100b9365d26ee4c3107b148a)
-- [@nishantwrp: Can anyone please suggest good office/gaming chairs that are not super expensive](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1a56c79d9160d9164d66be3cb10791c82)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
