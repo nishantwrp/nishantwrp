@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Just finished watching how i met your mother. What an ending 🤩.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a7697fda1c0a9567d568e1c4117c108f)
 - [@MKBHD: Fun fact: In iOS 16 we can edit iMessages… but not tweets](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e321490c9e6ad940e849272d4ad4ef00f6ad0db60faab6d7cda130f9b61d560e8)
 - [@nishantwrp: now has organizations participating in GSoC 2022. Thanks to @busynoble03! 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a16b7ade150a9a63d260e1c1167d1c82)
 - [@nishantwrp: Finally have a desk setup! 😌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a16a7fdb11079662d36be7c110781c8e)
 - [@nishantwrp: Why is @instagram suddenly showing all the old posts of the people I follow on the top?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1ab6274de120c9560d768e3c7107d1388)
-- [@nishantwrp: One of the things I really wanted to be a part of. @Google 🥺❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df1aa6e7bdd15079b60dd6fe7c514721683)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
