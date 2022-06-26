@@ -15,8 +15,8 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 - ✨ Built [GSoC Organizations](https://www.gsocorganizations.dev/).
 - 👨🏽‍💻 Looking for some cool projects to collaborate on.
 - 🌱 Learning GoLang & DevOps.
-- 🚀 Know more about my professional experience and achievements on [LinkedIn](https://urls.nishantwrp.com/linkedin-github).
-- 💬 Get in touch or Ask me Anything on [Twitter](https://urls.nishantwrp.com/twitter-github).
+- 🚀 Know more about my professional experience and achievements on [LinkedIn](https://www.linkedin.com/in/nishantwrp).
+- 💬 Get in touch or Ask me Anything on [Twitter](https://twitter.com/nishantwrp).
 
 <table><tr>
 <td valign="top" width="50%">
