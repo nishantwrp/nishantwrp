@@ -1,11 +1,11 @@
 ### Hey There <img src="./assets/wave.gif" width="25px">
-<a href="https://urls.nishantwrp.com/twitter-github" target="_blank">
+<a href="https://twitter.com/nishantwrp" target="_blank">
   <img align="left" alt="Nishant's Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
-<a href="https://urls.nishantwrp.com/linkedin-github" target="_blank">
+<a href="https://www.linkedin.com/in/nishantwrp" target="_blank">
   <img align="left" alt="Nishant's LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://urls.nishantwrp.com/site-github" target="_blank">
+<a href="https://www.nishantwrp.com/" target="_blank">
   <img align="left" alt="Nishant's Site" width="22px" src="./assets/globe.svg" />
 </a>
 <br /><br />
