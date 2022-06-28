@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: School days nostalgia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a36a7cdd120d9360d26ee8c7117d1489)
+- [@nishantwrp: Nice Discovery: Search Console Insights  provides an awesome report on your website analytics combining data from Google Analytics &amp; Google Search Console.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a26d75d91d0a9a61dd6ae1ca107b1188)
+- [@nishantwrp: ✨@lifeatgoogle @GoogleIndia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a26c7fd613069060dc61e5ca177a1c8f)
 - [@nishantwrp: Templates plugin was my GSoC project with @joplinapp last summer.  now it’s one of most used plugins.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a56d7ddb130f9060d569e0c5167b158d)
 - [@nishantwrp: It’s an awesome feeling to see the thins you made being used by others.Just saw people talking about my templates plugin in a subreddit and people discussing about  in a youtube video.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a56d7ddc130f9b68d76de2c1117c128a)
-- [@nishantwrp: So apt.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a76f7bd81c0b9563d669e4c6117e1189)
-- [@nishantwrp: Just finished watching how i met your mother. What an ending 🤩.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a7697fda1c0a9567d568e1c4117c108f)
-- [@MKBHD: Fun fact: In iOS 16 we can edit iMessages… but not tweets](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e321490c9e6ad940e849272d4ad4ef00f6ad0db60faab6d7cda130f9b61d560e8)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](https://twitter.com/nishantwrp)
 
