@@ -1,11 +1,11 @@
 ### Hey There <img src="./assets/wave.gif" width="25px">
-<a href="https://twitter.com/nishantwrp" target="_blank">
+<a href="http://urls.nishantwrp.com/github-to-twitter" target="_blank">
   <img align="left" alt="Nishant's Twitter" width="22px" src="./assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/nishantwrp" target="_blank">
+<a href="http://urls.nishantwrp.com/github-to-linkedin" target="_blank">
   <img align="left" alt="Nishant's LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://www.nishantwrp.com/" target="_blank">
+<a href="http://urls.nishantwrp.com/github-to-site" target="_blank">
   <img align="left" alt="Nishant's Site" width="22px" src="./assets/globe.svg" />
 </a>
 <br /><br />
@@ -15,8 +15,8 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 - ✨ Built [GSoC Organizations](https://www.gsocorganizations.dev/).
 - 👨🏽‍💻 Looking for some cool projects to collaborate on.
 - 🌱 Learning GoLang & DevOps.
-- 🚀 Know more about my professional experience and achievements on [LinkedIn](https://www.linkedin.com/in/nishantwrp).
-- 💬 Get in touch or Ask me Anything on [Twitter](https://twitter.com/nishantwrp).
+- 🚀 Know more about my professional experience and achievements on [LinkedIn](http://urls.nishantwrp.com/github-to-linkedin).
+- 💬 Get in touch or Ask me Anything on [Twitter](http://urls.nishantwrp.com/github-to-twitter).
 
 <table><tr>
 <td valign="top" width="50%">
@@ -29,7 +29,7 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 - [@nishantwrp: Templates plugin was my GSoC project with @joplinapp last summer.  now it’s one of most used plugins.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a56d7ddb130f9060d569e0c5167b158d)
 - [@nishantwrp: It’s an awesome feeling to see the thins you made being used by others.Just saw people talking about my templates plugin in a subreddit and people discussing about  in a youtube video.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a56d7ddc130f9b68d76de2c1117c128a)
 <!-- TWITTER:END -->
-➡️ [more tweets...](https://twitter.com/nishantwrp)
+➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
 </td>
 <td valign="top" width="50%">
