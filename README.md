@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Something new is brewing by @mxcl](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a06375d712099266d261e2c11178138d)
+- [@nishantwrp: 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a06274d71c0a9a69dd6ee4c7127c1c8f)
 - [@nishantwrp: School days nostalgia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a36a7cdd120d9360d26ee8c7117d1489)
 - [@nishantwrp: Nice Discovery: Search Console Insights  provides an awesome report on your website analytics combining data from Google Analytics &amp; Google Search Console.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a26d75d91d0a9a61dd6ae1ca107b1188)
 - [@nishantwrp: ✨@lifeatgoogle @GoogleIndia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a26c7fd613069060dc61e5ca177a1c8f)
-- [@nishantwrp: Templates plugin was my GSoC project with @joplinapp last summer.  now it’s one of most used plugins.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a56d7ddb130f9060d569e0c5167b158d)
-- [@nishantwrp: It’s an awesome feeling to see the thins you made being used by others.Just saw people talking about my templates plugin in a subreddit and people discussing about  in a youtube video.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df0a56d7ddc130f9b68d76de2c1117c128a)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
