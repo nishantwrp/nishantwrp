@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172964504) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-2. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172880359) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-3. 🎉 Merged PR [#23](https://github.com/nishantwrp/vue-gitalk/pull/23) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-4. ⭐ Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
-5. 🎉 Merged PR [#3](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/3) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-6. 👍 Approved [#3](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/3#pullrequestreview-1003432044) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
-7. 🎉 Merged PR [#77](https://github.com/nishantwrp/gsoc-organizations/pull/77) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-8. 👍 Approved [#77](https://github.com/nishantwrp/gsoc-organizations/pull/77#pullrequestreview-995946381) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-9. ✌️ Released [v2.3.0](https://github.com/joplin/plugin-templates/releases/tag/v2.3.0) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-10. 🎉 Merged PR [#63](https://github.com/joplin/plugin-templates/pull/63) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+1. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1179489005) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+2. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172964504) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+3. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172880359) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+4. 🎉 Merged PR [#23](https://github.com/nishantwrp/vue-gitalk/pull/23) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+5. ⭐ Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
+6. 🎉 Merged PR [#3](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/3) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+7. 👍 Approved [#3](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/3#pullrequestreview-1003432044) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+8. 🎉 Merged PR [#77](https://github.com/nishantwrp/gsoc-organizations/pull/77) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+9. 👍 Approved [#77](https://github.com/nishantwrp/gsoc-organizations/pull/77#pullrequestreview-995946381) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+10. ✌️ Released [v2.3.0](https://github.com/joplin/plugin-templates/releases/tag/v2.3.0) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
