@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r917250295) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-2. 💪 Opened PR [#5784](https://github.com/meshery/meshery/pull/5784) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 🔱 Forked [nishantwrp/meshery](https://github.com/nishantwrp/meshery) from [meshery/meshery](https://github.com/meshery/meshery)
-4. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r917248771) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-5. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1179489005) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-6. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172964504) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-7. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172880359) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-8. 🎉 Merged PR [#23](https://github.com/nishantwrp/vue-gitalk/pull/23) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-9. ⭐ Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
-10. 🎉 Merged PR [#3](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/3) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)
+1. ❗️ Opened issue [#5786](https://github.com/meshery/meshery/issues/5786) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r917250295) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+3. 💪 Opened PR [#5784](https://github.com/meshery/meshery/pull/5784) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 🔱 Forked [nishantwrp/meshery](https://github.com/nishantwrp/meshery) from [meshery/meshery](https://github.com/meshery/meshery)
+5. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r917248771) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+6. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1179489005) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+7. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172964504) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+8. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1172880359) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+9. 🎉 Merged PR [#23](https://github.com/nishantwrp/vue-gitalk/pull/23) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+10. ⭐ Starred [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
