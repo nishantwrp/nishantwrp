@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5801](https://github.com/meshery/meshery/issues/5801#issuecomment-1182983016) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919824572) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-3. 🔱 Forked [nishantwrp/homebrew-tap](https://github.com/nishantwrp/homebrew-tap) from [manikmmalhotra/homebrew-tap](https://github.com/manikmmalhotra/homebrew-tap)
-4. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919803464) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-5. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919790125) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-6. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919794692) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-7. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919794392) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-8. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919793043) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-9. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1182548455) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-10. 💪 Opened PR [#283](https://github.com/meshery/meshery-consul/pull/283) in [meshery/meshery-consul](https://github.com/meshery/meshery-consul)
+1. 👍 Approved [#5810](https://github.com/meshery/meshery/pull/5810#pullrequestreview-1037275741) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 💬 Commented on [#5801](https://github.com/meshery/meshery/issues/5801#issuecomment-1182983016) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919824572) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+4. 🔱 Forked [nishantwrp/homebrew-tap](https://github.com/nishantwrp/homebrew-tap) from [manikmmalhotra/homebrew-tap](https://github.com/manikmmalhotra/homebrew-tap)
+5. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919803464) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+6. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919790125) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+7. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919794692) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+8. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919794392) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+9. 💬 Commented on [#31](https://github.com/meshery/homebrew-tap/pull/31#discussion_r919793043) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+10. 💬 Commented on [#10](https://github.com/meshery/homebrew-tap/issues/10#issuecomment-1182548455) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
