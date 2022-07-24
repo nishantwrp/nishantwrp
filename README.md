@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Thanks a lot Anshuman for being an amazing host, manager, and building the awesome culture we had in our team. I hope the same 😄.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a26f78d8170b9a65d560e4c5137a178d)
+- [@pandeyanshuman: It was a real pleasure to host you, Nishant! Hoping for many more years of working together. All the very best.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f3ebce5c7fb8614968e72cae311ea4f2d899a2db0bd6b78da140a9662d66be9c41278148933c16b81)
+- [@nishantwrp: Today marks the last day of my internship with @Google. I don’t know how 10 weeks passed by so quick. It was one of best internship experiences I’ve had so far.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a26f7ed815079569d368e6c6167f118b)
 - [@nishantwrp: Google swags part 2 @Android @GoogleIndia @lifeatgoogle](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7ab6a7ddc1c079466d46ee4c211731483)
 - [@nishantwrp: Something new is brewing by @mxcl](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a06375d712099266d261e2c11178138d)
-- [@nishantwrp: 😁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a06274d71c0a9a69dd6ee4c7127c1c8f)
-- [@nishantwrp: School days nostalgia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a36a7cdd120d9360d26ee8c7117d1489)
-- [@nishantwrp: Nice Discovery: Search Console Insights  provides an awesome report on your website analytics combining data from Google Analytics &amp; Google Search Console.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a26d75d91d0a9a61dd6ae1ca107b1188)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
