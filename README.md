@@ -23,11 +23,11 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: For all the people looking to start contributing to open source. @layer5, @mesheryio is a great place for that. The community is very helpful, there are a great range of projects to choose from; frontend, backend, devops, wasm, and much more.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a26d74de110b9365d56ae9c71b7c138d)
+- [@nishantwrp: Back to open source. Looking forward to learn more about cloud native by contributing to @layer5 &amp; @mesheryio.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a26d74df10089768dd6de2ca1479108a)
 - [@nishantwrp: Thanks a lot Anshuman for being an amazing host, manager, and building the awesome culture we had in our team. I hope the same 😄.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a26f78d8170b9a65d560e4c5137a178d)
 - [@pandeyanshuman: It was a real pleasure to host you, Nishant! Hoping for many more years of working together. All the very best.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f3ebce5c7fb8614968e72cae311ea4f2d899a2db0bd6b78da140a9662d66be9c41278148933c16b81)
 - [@nishantwrp: Today marks the last day of my internship with @Google. I don’t know how 10 weeks passed by so quick. It was one of best internship experiences I’ve had so far.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a26f7ed815079569d368e6c6167f118b)
-- [@nishantwrp: Google swags part 2 @Android @GoogleIndia @lifeatgoogle](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7ab6a7ddc1c079466d46ee4c211731483)
-- [@nishantwrp: Something new is brewing by @mxcl](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df7a06375d712099266d261e2c11178138d)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
