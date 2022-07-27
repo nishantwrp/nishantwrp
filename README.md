@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#issuecomment-1195693014) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. ❗️ Opened issue [#5881](https://github.com/meshery/meshery/issues/5881) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 💪 Opened PR [#5880](https://github.com/meshery/meshery/pull/5880) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💬 Commented on [#5877](https://github.com/meshery/meshery/pull/5877#issuecomment-1193180364) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 💪 Opened PR [#5877](https://github.com/meshery/meshery/pull/5877) in [meshery/meshery](https://github.com/meshery/meshery)
-6. ❗️ Opened issue [#5870](https://github.com/meshery/meshery/issues/5870) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#issuecomment-1192358326) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-8. 🎉 Merged PR [#24](https://github.com/nishantwrp/vue-gitalk/pull/24) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-9. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#discussion_r926033123) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-10. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#discussion_r926029010) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#discussion_r930393144) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#issuecomment-1195693014) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. ❗️ Opened issue [#5881](https://github.com/meshery/meshery/issues/5881) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 💪 Opened PR [#5880](https://github.com/meshery/meshery/pull/5880) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 💬 Commented on [#5877](https://github.com/meshery/meshery/pull/5877#issuecomment-1193180364) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 💪 Opened PR [#5877](https://github.com/meshery/meshery/pull/5877) in [meshery/meshery](https://github.com/meshery/meshery)
+7. ❗️ Opened issue [#5870](https://github.com/meshery/meshery/issues/5870) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#issuecomment-1192358326) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+9. 🎉 Merged PR [#24](https://github.com/nishantwrp/vue-gitalk/pull/24) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+10. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#discussion_r926033123) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
