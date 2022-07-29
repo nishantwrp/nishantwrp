@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5896](https://github.com/meshery/meshery/pull/5896#issuecomment-1198241859) in [meshery/meshery](https://github.com/meshery/meshery)
-2. ❗️ Opened issue [#2985](https://github.com/layer5io/layer5/issues/2985) in [layer5io/layer5](https://github.com/layer5io/layer5)
-3. 💬 Commented on [#5881](https://github.com/meshery/meshery/issues/5881#issuecomment-1198029850) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💪 Opened PR [#5896](https://github.com/meshery/meshery/pull/5896) in [meshery/meshery](https://github.com/meshery/meshery)
-5. ❗️ Opened issue [#5895](https://github.com/meshery/meshery/issues/5895) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#issuecomment-1197740901) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#5888](https://github.com/meshery/meshery/pull/5888#discussion_r930952505) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💪 Opened PR [#5890](https://github.com/meshery/meshery/pull/5890) in [meshery/meshery](https://github.com/meshery/meshery)
-9. 💬 Commented on [#5888](https://github.com/meshery/meshery/pull/5888#discussion_r930940416) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 💪 Opened PR [#5888](https://github.com/meshery/meshery/pull/5888) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 💬 Commented on [#2985](https://github.com/layer5io/layer5/issues/2985#issuecomment-1198920507) in [layer5io/layer5](https://github.com/layer5io/layer5)
+2. 👍 Approved [#5907](https://github.com/meshery/meshery/pull/5907#pullrequestreview-1055056767) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 💬 Commented on [#5896](https://github.com/meshery/meshery/pull/5896#issuecomment-1198241859) in [meshery/meshery](https://github.com/meshery/meshery)
+4. ❗️ Opened issue [#2985](https://github.com/layer5io/layer5/issues/2985) in [layer5io/layer5](https://github.com/layer5io/layer5)
+5. 💬 Commented on [#5881](https://github.com/meshery/meshery/issues/5881#issuecomment-1198029850) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 💪 Opened PR [#5896](https://github.com/meshery/meshery/pull/5896) in [meshery/meshery](https://github.com/meshery/meshery)
+7. ❗️ Opened issue [#5895](https://github.com/meshery/meshery/issues/5895) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#issuecomment-1197740901) in [meshery/meshery](https://github.com/meshery/meshery)
+9. 💬 Commented on [#5888](https://github.com/meshery/meshery/pull/5888#discussion_r930952505) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💪 Opened PR [#5890](https://github.com/meshery/meshery/pull/5890) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
