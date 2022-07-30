@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5918](https://github.com/meshery/meshery/pull/5918#issuecomment-1200237730) in [meshery/meshery](https://github.com/meshery/meshery)
-2. ⭐ Starred [meshery/meshery](https://github.com/meshery/meshery)
-3. 👍 Approved [#5911](https://github.com/meshery/meshery/pull/5911#pullrequestreview-1056374973) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💪 Opened PR [#5918](https://github.com/meshery/meshery/pull/5918) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 💬 Commented on [#5896](https://github.com/meshery/meshery/pull/5896#discussion_r933801736) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 🔴 Requested 1 change(s) for [#5911](https://github.com/meshery/meshery/pull/5911#pullrequestreview-1055552210) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#issuecomment-1199209733) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-8. 💬 Commented on [#2985](https://github.com/layer5io/layer5/issues/2985#issuecomment-1198920507) in [layer5io/layer5](https://github.com/layer5io/layer5)
-9. 👍 Approved [#5907](https://github.com/meshery/meshery/pull/5907#pullrequestreview-1055056767) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 💬 Commented on [#5896](https://github.com/meshery/meshery/pull/5896#issuecomment-1198241859) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 💬 Commented on [#5918](https://github.com/meshery/meshery/pull/5918#issuecomment-1200283087) in [meshery/meshery](https://github.com/meshery/meshery)
+2. ❗️ Opened issue [#5921](https://github.com/meshery/meshery/issues/5921) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 💬 Commented on [#4764](https://github.com/laurent22/joplin/issues/4764#issuecomment-1200257695) in [laurent22/joplin](https://github.com/laurent22/joplin)
+4. 💬 Commented on [#5918](https://github.com/meshery/meshery/pull/5918#issuecomment-1200237730) in [meshery/meshery](https://github.com/meshery/meshery)
+5. ⭐ Starred [meshery/meshery](https://github.com/meshery/meshery)
+6. 👍 Approved [#5911](https://github.com/meshery/meshery/pull/5911#pullrequestreview-1056374973) in [meshery/meshery](https://github.com/meshery/meshery)
+7. 💪 Opened PR [#5918](https://github.com/meshery/meshery/pull/5918) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💬 Commented on [#5896](https://github.com/meshery/meshery/pull/5896#discussion_r933801736) in [meshery/meshery](https://github.com/meshery/meshery)
+9. 🔴 Requested 1 change(s) for [#5911](https://github.com/meshery/meshery/pull/5911#pullrequestreview-1055552210) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💬 Commented on [#105761](https://github.com/Homebrew/homebrew-core/pull/105761#issuecomment-1199209733) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
