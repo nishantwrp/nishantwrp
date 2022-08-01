@@ -36,16 +36,16 @@ I'm Nishant Mittal, a passionate software engineer, and a computer science under
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5931](https://github.com/meshery/meshery/pull/5931) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 💬 Commented on [#5930](https://github.com/meshery/meshery/pull/5930#discussion_r934389984) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 💬 Commented on [#5930](https://github.com/meshery/meshery/pull/5930#discussion_r934389086) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💪 Opened PR [#5930](https://github.com/meshery/meshery/pull/5930) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 💪 Opened PR [#5927](https://github.com/meshery/meshery/pull/5927) in [meshery/meshery](https://github.com/meshery/meshery)
-6. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-7. 💪 Opened PR [#795](https://github.com/meshery/meshery.io/pull/795) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-8. 🔱 Forked [nishantwrp/meshery.io](https://github.com/nishantwrp/meshery.io) from [meshery/meshery.io](https://github.com/meshery/meshery.io)
-9. 💪 Opened PR [#5924](https://github.com/meshery/meshery/pull/5924) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 💪 Opened PR [#2993](https://github.com/layer5io/layer5/pull/2993) in [layer5io/layer5](https://github.com/layer5io/layer5)
+1. 💬 Commented on [#5927](https://github.com/meshery/meshery/pull/5927#issuecomment-1201629492) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 💬 Commented on [#5930](https://github.com/meshery/meshery/pull/5930#issuecomment-1201627321) in [meshery/meshery](https://github.com/meshery/meshery)
+3. ❌ Closed PR [#5931](https://github.com/meshery/meshery/pull/5931) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 💬 Commented on [#5931](https://github.com/meshery/meshery/pull/5931#issuecomment-1201620619) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 💪 Opened PR [#5931](https://github.com/meshery/meshery/pull/5931) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 💬 Commented on [#5930](https://github.com/meshery/meshery/pull/5930#discussion_r934389984) in [meshery/meshery](https://github.com/meshery/meshery)
+7. 💬 Commented on [#5930](https://github.com/meshery/meshery/pull/5930#discussion_r934389086) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💪 Opened PR [#5930](https://github.com/meshery/meshery/pull/5930) in [meshery/meshery](https://github.com/meshery/meshery)
+9. 💪 Opened PR [#5927](https://github.com/meshery/meshery/pull/5927) in [meshery/meshery](https://github.com/meshery/meshery)
+10. ⭐ Starred [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
