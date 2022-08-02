@@ -10,11 +10,11 @@
 </a>
 <br /><br />
 
-I'm Nishant Mittal, a passionate software engineer, and a computer science undergraduate at IIT BHU, Varanasi. I love contributing to and building open source projects.
+I am Nishant Mittal, a passionate software engineer, open source enthusiast and studying computer science at IIT (BHU) Varanasi. I love contributing to and building open source projects.
 
-- ✨ Built [GSoC Organizations](https://www.gsocorganizations.dev/).
-- 👨🏽‍💻 Looking for some cool projects to collaborate on.
-- 🌱 Learning GoLang & DevOps.
+- 👨🏽‍💻 Contributing to [Meshery](https://meshery.io/) and other [Layer5](https://layer5.io/) projects.
+- ✨ Built [GSoC Organizations](https://www.gsocorganizations.dev/), [Templates Plugin for Joplin](https://github.com/joplin/plugin-templates).
+- 🌱 Learning GoLang, DevOps, and Cloud Native Computing.
 - 🚀 Know more about my professional experience and achievements on [LinkedIn](http://urls.nishantwrp.com/github-to-linkedin).
 - 💬 Get in touch or Ask me Anything on [Twitter](http://urls.nishantwrp.com/github-to-twitter).
 
