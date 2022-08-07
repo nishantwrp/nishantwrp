@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#107470](https://github.com/Homebrew/homebrew-core/pull/107470#issuecomment-1207347318) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 💪 Opened PR [#107519](https://github.com/Homebrew/homebrew-core/pull/107519) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-3. 💬 Commented on [#5989](https://github.com/meshery/meshery/pull/5989#issuecomment-1207229707) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💪 Opened PR [#5989](https://github.com/meshery/meshery/pull/5989) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 💪 Opened PR [#5988](https://github.com/meshery/meshery/pull/5988) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 💪 Opened PR [#5987](https://github.com/meshery/meshery/pull/5987) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#5896](https://github.com/meshery/meshery/pull/5896#issuecomment-1207180908) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💬 Commented on [#5911](https://github.com/meshery/meshery/pull/5911#issuecomment-1207179435) in [meshery/meshery](https://github.com/meshery/meshery)
-9. 💬 Commented on [#5908](https://github.com/meshery/meshery/pull/5908#discussion_r939505538) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 🔴 Requested 1 change(s) for [#5908](https://github.com/meshery/meshery/pull/5908#pullrequestreview-1064288295) in [meshery/meshery](https://github.com/meshery/meshery)
+1. ❌ Closed PR [#5989](https://github.com/meshery/meshery/pull/5989) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 💪 Opened PR [#5991](https://github.com/meshery/meshery/pull/5991) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 💬 Commented on [#3077](https://github.com/golangci/golangci-lint/issues/3077#issuecomment-1207392349) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+4. 💬 Commented on [#535](https://github.com/golangci/golangci-lint-action/issues/535#issuecomment-1207391193) in [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action)
+5. ❗️ Opened issue [#3077](https://github.com/golangci/golangci-lint/issues/3077) in [golangci/golangci-lint](https://github.com/golangci/golangci-lint)
+6. ✔️ Closed issue [#5895](https://github.com/meshery/meshery/issues/5895) in [meshery/meshery](https://github.com/meshery/meshery)
+7. 💬 Commented on [#5895](https://github.com/meshery/meshery/issues/5895#issuecomment-1207367352) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💬 Commented on [#107470](https://github.com/Homebrew/homebrew-core/pull/107470#issuecomment-1207347318) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+9. 💪 Opened PR [#107519](https://github.com/Homebrew/homebrew-core/pull/107519) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+10. 💬 Commented on [#5989](https://github.com/meshery/meshery/pull/5989#issuecomment-1207229707) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
