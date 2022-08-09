@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6000](https://github.com/meshery/meshery/issues/6000#issuecomment-1208522988) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940163913) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940169070) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940132301) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940167855) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940165054) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940166119) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940157347) in [meshery/meshery](https://github.com/meshery/meshery)
-9. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940156720) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940165728) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 💬 Commented on [#6003](https://github.com/meshery/meshery/issues/6003#issuecomment-1209203031) in [meshery/meshery](https://github.com/meshery/meshery)
+2. ❗️ Opened issue [#6003](https://github.com/meshery/meshery/issues/6003) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 💬 Commented on [#6000](https://github.com/meshery/meshery/issues/6000#issuecomment-1209191246) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 💬 Commented on [#6000](https://github.com/meshery/meshery/issues/6000#issuecomment-1209152563) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 💬 Commented on [#6000](https://github.com/meshery/meshery/issues/6000#issuecomment-1208522988) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940163913) in [meshery/meshery](https://github.com/meshery/meshery)
+7. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940169070) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940132301) in [meshery/meshery](https://github.com/meshery/meshery)
+9. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940167855) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r940165054) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
