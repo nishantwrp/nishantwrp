@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6032](https://github.com/meshery/meshery/issues/6032#issuecomment-1214244673) in [meshery/meshery](https://github.com/meshery/meshery)
-2. ❗️ Opened issue [#6032](https://github.com/meshery/meshery/issues/6032) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 💬 Commented on [#204](https://github.com/meshery/meshkit/pull/204#issuecomment-1214240622) in [meshery/meshkit](https://github.com/meshery/meshkit)
-4. 💪 Opened PR [#204](https://github.com/meshery/meshkit/pull/204) in [meshery/meshkit](https://github.com/meshery/meshkit)
-5. 🔱 Forked [nishantwrp/meshkit](https://github.com/nishantwrp/meshkit) from [meshery/meshkit](https://github.com/meshery/meshkit)
-6. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r945126451) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r945126106) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💬 Commented on [#5993](https://github.com/meshery/meshery/issues/5993#issuecomment-1214137410) in [meshery/meshery](https://github.com/meshery/meshery)
-9. 💪 Opened PR [#6026](https://github.com/meshery/meshery/pull/6026) in [meshery/meshery](https://github.com/meshery/meshery)
-10. ❗️ Opened issue [#6021](https://github.com/meshery/meshery/issues/6021) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 💬 Commented on [#5687](https://github.com/meshery/meshery/issues/5687#issuecomment-1214943752) in [meshery/meshery](https://github.com/meshery/meshery)
+2. ✔️ Closed issue [#5881](https://github.com/meshery/meshery/issues/5881) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 💬 Commented on [#5881](https://github.com/meshery/meshery/issues/5881#issuecomment-1214920671) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 💬 Commented on [#6032](https://github.com/meshery/meshery/issues/6032#issuecomment-1214244673) in [meshery/meshery](https://github.com/meshery/meshery)
+5. ❗️ Opened issue [#6032](https://github.com/meshery/meshery/issues/6032) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 💬 Commented on [#204](https://github.com/meshery/meshkit/pull/204#issuecomment-1214240622) in [meshery/meshkit](https://github.com/meshery/meshkit)
+7. 💪 Opened PR [#204](https://github.com/meshery/meshkit/pull/204) in [meshery/meshkit](https://github.com/meshery/meshkit)
+8. 🔱 Forked [nishantwrp/meshkit](https://github.com/nishantwrp/meshkit) from [meshery/meshkit](https://github.com/meshery/meshkit)
+9. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r945126451) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r945126106) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
