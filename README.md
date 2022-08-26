@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#108835](https://github.com/Homebrew/homebrew-core/pull/108835#issuecomment-1227160250) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-2. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954865521) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954404298) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954405859) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954403159) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 🔴 Requested 2 change(s) for [#5661](https://github.com/meshery/meshery/pull/5661#pullrequestreview-1084647411) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954402530) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💬 Commented on [#108831](https://github.com/Homebrew/homebrew-core/pull/108831#issuecomment-1226624518) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
-9. 💬 Commented on [#6021](https://github.com/meshery/meshery/issues/6021#issuecomment-1226621211) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r953916252) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 💬 Commented on [#108943](https://github.com/Homebrew/homebrew-core/pull/108943#issuecomment-1228455057) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+2. 💬 Commented on [#108835](https://github.com/Homebrew/homebrew-core/pull/108835#issuecomment-1227160250) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+3. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954865521) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954404298) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954405859) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954403159) in [meshery/meshery](https://github.com/meshery/meshery)
+7. 🔴 Requested 2 change(s) for [#5661](https://github.com/meshery/meshery/pull/5661#pullrequestreview-1084647411) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💬 Commented on [#5661](https://github.com/meshery/meshery/pull/5661#discussion_r954402530) in [meshery/meshery](https://github.com/meshery/meshery)
+9. 💬 Commented on [#108831](https://github.com/Homebrew/homebrew-core/pull/108831#issuecomment-1226624518) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+10. 💬 Commented on [#6021](https://github.com/meshery/meshery/issues/6021#issuecomment-1226621211) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
