@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Did you know that 1 Terabyte = 1000 GB &lpar;Not 1024 GB&rpar;?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df5a6687ad9140a9664d06de8cb1173118c)
 - [@nishantwrp: .@heroku is not free anymore 😭😭.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df5a06275d8160b9461d66ae7c611781682)
 - [@nishantwrp: Early friday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a56279da170f9568d769e1c71a7e128b)
 - [@madewith_react: This open-source directory of Google Summer of Code organizations by @nishantwrp is #madewithreactjs! 🙌 -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e123eb6e4d5eb9312ba9462c6e10bea4f2d899a2db0bd6b78da100b9468d661e6c31b72108d3dc16a87)
 - [@nishantwrp: Had a &quot;it works on my machine&quot; moment today. That too while writing tests, they were passing locally but not on the CI. So frustrating, couldn&#39;t even debug locally.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a6687dd711099b66d368e1ca107d1c83)
-- [@tanyarajhans7: Reminder: No matter how promising top-notch quality course you purchase, your problem solving skills are going to grow only by practising.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ebcf8c3f086108d8769d4b550b648389c9b2beca36f78de11099a62d76ce7c51179128c3cc466)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
