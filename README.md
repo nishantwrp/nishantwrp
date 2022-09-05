@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
-- [@nishantwrp: Software Engineering](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df5a7627ddb140a9260d46ce6c5167c1c8f)
-- [@nishantwrp: Did you know that 1 Terabyte = 1000 GB &lpar;Not 1024 GB&rpar;?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df5a6687ad9140a9664d06de8cb1173118c)
-- [@nishantwrp: .@heroku is not free anymore 😭😭.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df5a06275d8160b9461d66ae7c611781682)
-- [@nishantwrp: Early friday](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df6a56279da170f9568d769e1c71a7e128b)
-- [@madewith_react: This open-source directory of Google Summer of Code organizations by @nishantwrp is #madewithreactjs! 🙌 -](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e123eb6e4d5eb9312ba9462c6e10bea4f2d899a2db0bd6b78da100b9468d661e6c31b72108d3dc16a87)
+- [@lcalcote: @nishantwrp is one. And for me, that’s all the answer I need. This young man is going places and I’m ecstatic that he  is allowing me to be part of his journey.If you’re gambling kind, put your money here. I certainly am.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e133cb3edc1ed931fca9573c6f60ab61368ddd86ef2a66875da17099761dd6ee6c01473)
+- [@lcalcote: If these questions don’t resonate, I more than understand. Godspeed your blistering fast acceleration to an unlimited number of profile flare and immediate monetary benefit.On the off chance that they do, I highly recommend heeding these FAQs -  …](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e133cb3edc1ed931fca9573c6f60ab61368ddd86ef2a66a7fdb140a9467dc6ae8c0137c)
+- [@lcalcote: Yes, it is. Although, consider that this is perhaps not the most appropriate nor by far the most important question. What might you learn? With whom will you work? What might you accomplish? How is time spent in this internship a blessing that pays long-term dividends?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e133cb3edc1ed931fca9573c6f60ab61368ddd86ef2a16d7edd140f9465d36ae9c7167c)
+- [@nishantwrp: …](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df5a7637ade170f9a62dc6ae5c01779158c)
+- [@nishantwrp: I am very excited to share that I’ll be working with @layer5 as a LFX Intern for the next couple of months. Working on software related to cloud native was on my todo list for a long amount of time.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df5a7637bd613089a62d569e8c7117c1d89)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
