@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5993](https://github.com/meshery/meshery/issues/5993#issuecomment-1257680933) in [meshery/meshery](https://github.com/meshery/meshery)
-2. ❗️ Opened issue [#6248](https://github.com/meshery/meshery/issues/6248) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 💬 Commented on [#6237](https://github.com/meshery/meshery/pull/6237#issuecomment-1257204523) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 💬 Commented on [#6237](https://github.com/meshery/meshery/pull/6237#discussion_r979412144) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 💬 Commented on [#6237](https://github.com/meshery/meshery/pull/6237#discussion_r979380569) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 💬 Commented on [#6194](https://github.com/meshery/meshery/pull/6194#issuecomment-1257137017) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💪 Opened PR [#6237](https://github.com/meshery/meshery/pull/6237) in [meshery/meshery](https://github.com/meshery/meshery)
-8. ⭐ Starred [pion/turn](https://github.com/pion/turn)
-9. 👍 Approved [#6197](https://github.com/meshery/meshery/pull/6197#pullrequestreview-1106059145) in [meshery/meshery](https://github.com/meshery/meshery)
-10. ⭐ Starred [facebookincubator/memlab](https://github.com/facebookincubator/memlab)
+1. ✔️ Closed issue [#6248](https://github.com/meshery/meshery/issues/6248) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 💬 Commented on [#6248](https://github.com/meshery/meshery/issues/6248#issuecomment-1260239037) in [meshery/meshery](https://github.com/meshery/meshery)
+3. ❗️ Opened issue [#6274](https://github.com/meshery/meshery/issues/6274) in [meshery/meshery](https://github.com/meshery/meshery)
+4. ❗️ Opened issue [#6273](https://github.com/meshery/meshery/issues/6273) in [meshery/meshery](https://github.com/meshery/meshery)
+5. ❗️ Opened issue [#6272](https://github.com/meshery/meshery/issues/6272) in [meshery/meshery](https://github.com/meshery/meshery)
+6. ❗️ Opened issue [#6271](https://github.com/meshery/meshery/issues/6271) in [meshery/meshery](https://github.com/meshery/meshery)
+7. ❗️ Opened issue [#6270](https://github.com/meshery/meshery/issues/6270) in [meshery/meshery](https://github.com/meshery/meshery)
+8. ❗️ Opened issue [#6269](https://github.com/meshery/meshery/issues/6269) in [meshery/meshery](https://github.com/meshery/meshery)
+9. ❗️ Opened issue [#6268](https://github.com/meshery/meshery/issues/6268) in [meshery/meshery](https://github.com/meshery/meshery)
+10. ❗️ Opened issue [#6267](https://github.com/meshery/meshery/issues/6267) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
