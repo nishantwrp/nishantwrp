@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: 🪔✨🎆🎇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba66c78de120c9a64d36de9c41b781589)
+- [@nishantwrp: Happy diwali everyone!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba6687ad8120f9a61d46ce0c6167c1283)
+- [@nishantwrp: Double Diwali? #INDvPAK](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba66b78de17079468d069e5c514721d89)
+- [@nishantwrp: So that no one else messes up my code ;&rpar;.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba66b7ed71c0d9365d660e5c51a7e1d89)
 - [@MKBHD: I have some thoughts... the VR headsets are coming.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e321490c9e6ad940e849272d4ad4ef00469d1df6ff7a06b7ada130a9b67d16de7)
-- [@nishantwrp: Praying for their speedy recovery!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df4a66f7cdc120e9768d36de4ca1a79168f)
-- [@Pranjali1210: For my beloved friends @1108King @nishtha9960 ,Eeshan and others caught in the tragic accident on the way to Kullu.All Our prayers go out to you and your families. Stay strong..This Navratri wishing for your speedy recovery and health🙏🙏#iitbhu #kulluaccident](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2f2db3efc8e38b13d4d43697ad0cb15d2d9d9d77f2a76d79dc1c0f9367d76fe8ca11731c8939c0)
-- [@nishantwrp: This time you can even report repositories made specifically for @hacktoberfest on this link.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df4a16a7cdb16099365dc68e3c3177a138f)
-- [@nishantwrp: .@hacktoberfest has its own dynamic islands.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6df4a16a7cdb140a9b69d168e7c613791c8b)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
