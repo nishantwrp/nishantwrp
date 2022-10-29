@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Really delighted to see a part of my work as a lfx mentee getting demoed at #KubeCon yesterday.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba76c7cd613099b62d26ce6c014721588)
 - [@nishantwrp: Is it promotion season? I&#39;m seeing a lot of engineers getting promoted on linkedin, twitter.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba7687bde1d099664d46ae0c4117e1c8e)
 - [@nishantwrp: 🪔✨🎆🎇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba66c78de120c9a64d36de9c41b781589)
 - [@nishantwrp: Happy diwali everyone!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba6687ad8120f9a61d46ce0c6167c1283)
 - [@nishantwrp: Double Diwali? #INDvPAK](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba66b78de17079468d069e5c514721d89)
-- [@nishantwrp: So that no one else messes up my code ;&rpar;.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba66b7ed71c0d9365d660e5c51a7e1d89)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
