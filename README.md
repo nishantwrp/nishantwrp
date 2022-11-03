@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#32](https://github.com/meshery/homebrew-tap/pull/32#issuecomment-1301161942) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-2. 💪 Opened PR [#6477](https://github.com/meshery/meshery/pull/6477) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 💪 Opened PR [#32](https://github.com/meshery/homebrew-tap/pull/32) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-4. 🔱 Forked [nishantwrp/homebrew-tap](https://github.com/nishantwrp/homebrew-tap) from [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
-5. 💬 Commented on [#1863](https://github.com/mattermost/focalboard/issues/1863#issuecomment-1282071351) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
-6. 💪 Opened PR [#6398](https://github.com/meshery/meshery/pull/6398) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#81](https://github.com/nishantwrp/gsoc-organizations/issues/81#issuecomment-1278921001) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-8. ❗️ Opened issue [#81](https://github.com/nishantwrp/gsoc-organizations/issues/81) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-9. 🎉 Merged PR [#80](https://github.com/nishantwrp/gsoc-organizations/pull/80) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-10. 💪 Opened PR [#80](https://github.com/nishantwrp/gsoc-organizations/pull/80) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+1. ❗️ Opened issue [#33](https://github.com/meshery/homebrew-tap/issues/33) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+2. 💬 Commented on [#6477](https://github.com/meshery/meshery/pull/6477#issuecomment-1301342471) in [meshery/meshery](https://github.com/meshery/meshery)
+3. ❗️ Opened issue [#6480](https://github.com/meshery/meshery/issues/6480) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 💬 Commented on [#32](https://github.com/meshery/homebrew-tap/pull/32#issuecomment-1301161942) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+5. 💪 Opened PR [#6477](https://github.com/meshery/meshery/pull/6477) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 💪 Opened PR [#32](https://github.com/meshery/homebrew-tap/pull/32) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+7. 🔱 Forked [nishantwrp/homebrew-tap](https://github.com/nishantwrp/homebrew-tap) from [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)
+8. 💬 Commented on [#1863](https://github.com/mattermost/focalboard/issues/1863#issuecomment-1282071351) in [mattermost/focalboard](https://github.com/mattermost/focalboard)
+9. 💪 Opened PR [#6398](https://github.com/meshery/meshery/pull/6398) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💬 Commented on [#81](https://github.com/nishantwrp/gsoc-organizations/issues/81#issuecomment-1278921001) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
