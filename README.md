@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#35290](https://github.com/mui/material-ui/issues/35290) in [mui/material-ui](https://github.com/mui/material-ui)
-2. ✔️ Closed issue [#83](https://github.com/nishantwrp/gsoc-organizations/issues/83) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-3. 💬 Commented on [#83](https://github.com/nishantwrp/gsoc-organizations/issues/83#issuecomment-1328296648) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-4. ❗️ Opened issue [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1328229453) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-6. 💬 Commented on [#6575](https://github.com/meshery/meshery/issues/6575#issuecomment-1327503942) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💪 Opened PR [#6571](https://github.com/meshery/meshery/pull/6571) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💬 Commented on [#6552](https://github.com/meshery/meshery/pull/6552#issuecomment-1326863068) in [meshery/meshery](https://github.com/meshery/meshery)
-9. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1326811925) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-10. 💬 Commented on [#5993](https://github.com/meshery/meshery/issues/5993#issuecomment-1326224294) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 💪 Opened PR [#6589](https://github.com/meshery/meshery/pull/6589) in [meshery/meshery](https://github.com/meshery/meshery)
+2. ❗️ Opened issue [#35290](https://github.com/mui/material-ui/issues/35290) in [mui/material-ui](https://github.com/mui/material-ui)
+3. ✔️ Closed issue [#83](https://github.com/nishantwrp/gsoc-organizations/issues/83) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+4. 💬 Commented on [#83](https://github.com/nishantwrp/gsoc-organizations/issues/83#issuecomment-1328296648) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+5. ❗️ Opened issue [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+6. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1328229453) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+7. 💬 Commented on [#6575](https://github.com/meshery/meshery/issues/6575#issuecomment-1327503942) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 💪 Opened PR [#6571](https://github.com/meshery/meshery/pull/6571) in [meshery/meshery](https://github.com/meshery/meshery)
+9. 💬 Commented on [#6552](https://github.com/meshery/meshery/pull/6552#issuecomment-1326863068) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1326811925) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
