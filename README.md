@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Wait... Is that my message? 😛](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a26b74da14099b62dc6de6c516791483)
 - [@nishantwrp: Funny how they just send “it is likely to make up” everytime](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfaab6979d8100e9563d06ae1c6117b1483)
 - [@nishantwrp: GSoC didn’t announce university stats this year? #google #gsoc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfaab6874d714099160d26be2c7107a1d83)
 - [@nishantwrp: Oh wow! So many wasted hours.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfaaa6d75dc10099a66d76ee5c51a7e1d89)
 - [@v3dprakash: With GSOC application period approaching, I found this thread by @nishantwrp really helpful in understanding the process.........so I thought about sharing it everyone....✨✨✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e096cb6f1d0e38c1b968e28d4f61eb1492ac7df6dfaaa6c7bd8110f9368d66ae9c013791083)
-- [@nishantwrp: Are people joking or are really dumb to say parag was fired due to recession?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfba7637cda10079569d56ae2c0137a118d)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
