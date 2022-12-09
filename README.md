@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#85](https://github.com/nishantwrp/gsoc-organizations/issues/85#issuecomment-1343142982) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-2. 💬 Commented on [#6626](https://github.com/meshery/meshery/pull/6626#discussion_r1041920485) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 👍 Approved [#6626](https://github.com/meshery/meshery/pull/6626#pullrequestreview-1208003946) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 👍 Approved [#6626](https://github.com/meshery/meshery/pull/6626#pullrequestreview-1208003946) in [meshery/meshery](https://github.com/meshery/meshery)
-5. 🎉 Merged PR [#25](https://github.com/nishantwrp/vue-gitalk/pull/25) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
-6. 💬 Commented on [#6626](https://github.com/meshery/meshery/pull/6626#discussion_r1040530328) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 💬 Commented on [#6625](https://github.com/meshery/meshery/pull/6625#issuecomment-1337203906) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💬 Commented on [#6626](https://github.com/meshery/meshery/pull/6626#discussion_r1039494538) in [meshery/meshery](https://github.com/meshery/meshery)
-9. 🔴 Requested 2 change(s) for [#6626](https://github.com/meshery/meshery/pull/6626#pullrequestreview-1204385536) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 💬 Commented on [#70](https://github.com/joplin/plugin-templates/issues/70#issuecomment-1333786524) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+1. 🎉 Merged PR [#28](https://github.com/nishantwrp/vue-gitalk/pull/28) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+2. 🎉 Merged PR [#27](https://github.com/nishantwrp/vue-gitalk/pull/27) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+3. 🎉 Merged PR [#26](https://github.com/nishantwrp/vue-gitalk/pull/26) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+4. 💬 Commented on [#85](https://github.com/nishantwrp/gsoc-organizations/issues/85#issuecomment-1343142982) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+5. 💬 Commented on [#6626](https://github.com/meshery/meshery/pull/6626#discussion_r1041920485) in [meshery/meshery](https://github.com/meshery/meshery)
+6. 👍 Approved [#6626](https://github.com/meshery/meshery/pull/6626#pullrequestreview-1208003946) in [meshery/meshery](https://github.com/meshery/meshery)
+7. 👍 Approved [#6626](https://github.com/meshery/meshery/pull/6626#pullrequestreview-1208003946) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 🎉 Merged PR [#25](https://github.com/nishantwrp/vue-gitalk/pull/25) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+9. 💬 Commented on [#6626](https://github.com/meshery/meshery/pull/6626#discussion_r1040530328) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💬 Commented on [#6625](https://github.com/meshery/meshery/pull/6625#issuecomment-1337203906) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
