@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: 🏝️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a06d7ddd170d9068d668e1c11a7e1683)
 - [@nishantwrp: Cochin airport &gt;&gt; Delhi Airport](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a36d74dc17089569d56ee5c61a731d8d)
 - [@CloudNativeFdn: Congratulations to our latest LFX program graduates! 🎓 Read more about the projects they worked on ⬇️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c33bdf4c6cc860e8c9062e1e611ea4f2d899a2db0bd6b7bdf14079b65dc69e7ca1679128a3bc36a83)
 - [@nishantwrp: Disappointing bug from @Apple , have to alter location settings everytime I want to connect to a bluetooth headset.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a26e7ddf1d0c9766d76ae0c2177d148b)
 - [@nishantwrp: Wait... Is that my message? 😛](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a26b74da14099b62dc6de6c516791483)
-- [@nishantwrp: Funny how they just send “it is likely to make up” everytime](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6dfaab6979d8100e9563d06ae1c6117b1483)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
