@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87#pullrequestreview-1225027090) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-2. 👍 Approved [#88](https://github.com/nishantwrp/gsoc-organizations/pull/88#pullrequestreview-1223919204) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-3. 💬 Commented on [#75](https://github.com/nishantwrp/gsoc-organizations/issues/75#issuecomment-1358874540) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-4. ✔️ Closed issue [#75](https://github.com/nishantwrp/gsoc-organizations/issues/75) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 🎉 Merged PR [#88](https://github.com/nishantwrp/gsoc-organizations/pull/88) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-6. 💬 Commented on [#75](https://github.com/nishantwrp/gsoc-organizations/issues/75#issuecomment-1358853259) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-7. 💬 Commented on [#6269](https://github.com/meshery/meshery/issues/6269#issuecomment-1358036071) in [meshery/meshery](https://github.com/meshery/meshery)
-8. 💬 Commented on [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87#issuecomment-1347692695) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-9. 🎉 Merged PR [#11](https://github.com/nishantwrp/drf-starter-template/pull/11) in [nishantwrp/drf-starter-template](https://github.com/nishantwrp/drf-starter-template)
-10. 🎉 Merged PR [#28](https://github.com/nishantwrp/vue-gitalk/pull/28) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)
+1. ✔️ Closed issue [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+2. 💬 Commented on [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84#issuecomment-1364684075) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+3. 🔴 Requested 1 change(s) for [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87#pullrequestreview-1225027090) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+4. 👍 Approved [#88](https://github.com/nishantwrp/gsoc-organizations/pull/88#pullrequestreview-1223919204) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+5. 💬 Commented on [#75](https://github.com/nishantwrp/gsoc-organizations/issues/75#issuecomment-1358874540) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+6. ✔️ Closed issue [#75](https://github.com/nishantwrp/gsoc-organizations/issues/75) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+7. 🎉 Merged PR [#88](https://github.com/nishantwrp/gsoc-organizations/pull/88) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+8. 💬 Commented on [#75](https://github.com/nishantwrp/gsoc-organizations/issues/75#issuecomment-1358853259) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+9. 💬 Commented on [#6269](https://github.com/meshery/meshery/issues/6269#issuecomment-1358036071) in [meshery/meshery](https://github.com/meshery/meshery)
+10. 💬 Commented on [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87#issuecomment-1347692695) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
 <!--RECENT_ACTIVITY:end-->
 
 </td>
