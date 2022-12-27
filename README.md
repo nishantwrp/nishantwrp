@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Merry Christmas everyone! 🎅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46379d715079164d56fe2ca177b1c82)
+- [@nishantwrp: Also, how many students complaining about the privilege of IITians can say they were not able to get coaching because of financial issues?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46d78d916069b68d16ee3c6127c1282)
+- [@nishantwrp: Love how so many people are commenting about the coaching fee. Firstly, coaching fee + living in kota was almost equal to my one years fee in college. And I think some tier 2 + tier 3 colleges have even more fee than IITs.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46d78d9160b9b60d760e1c7157d148b)
+- [@nishantwrp: I don’t understand why people think of IITians as “privileged” people. Didn’t they work hard to get a good score in JEE?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46c75df140f9164d360e5c21b78108f)
 - [@nishantwrp:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46875d912069563d16de1c6157b108e)
-- [@nishantwrp: Saw magic happen today, using a custom package in node.js locally caused buggy behaviour. But, using the published version of the same package &lpar;without any changes to source&rpar; worked perfectly fine. Frustrating...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46a7edf120b9b62d46ae3c51b791d8d)
-- [@nishantwrp: Not just images, raw content of files in a @github repo is not loading for me.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a7637fdb17089b61d16ae9c3127a1582)
-- [@nishantwrp: Are images not loading in @github readme&#39;s for everyone? Images don&#39;t seem to load in any readme from the past 15 days for me.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a76f7cdf170a9362dc6de4c7147b1d83)
-- [@nishantwrp: 👨‍💻 #GitHubUnwrapped](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a76e79dc1d0b9768d36ae4c41279118d)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
