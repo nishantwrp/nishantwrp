@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Also, the site just crossed 300k page views 🎉.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a56275dd160e9360d661e8c51772108a)
+- [@nishantwrp: Got some time to work on  this weekend. Applied some react concepts &lpar;that I didn&#39;t know earlier&rpar; like memoization to the application. Also, fixed bugs like filters and search not updating according to the url when you press back on your browser.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a56275dd150b9762d36ce8c2127d1483)
 - [@nishantwrp: When working on a project, it’s natural to want to keep working on new things. But, sometimes it’s more important to work on not so interesting things like writing tests, documentation, performance improvements, etc.How to keep myself motivated to work on such things?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a56978dc1c079561dc6ae4ca147c1189)
 - [@nishantwrp: Merry Christmas everyone! 🎅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46379d715079164d56fe2ca177b1c82)
 - [@nishantwrp: Also, how many students complaining about the privilege of IITians can say they were not able to get coaching because of financial issues?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46d78d916069b68d16ee3c6127c1282)
-- [@nishantwrp: Love how so many people are commenting about the coaching fee. Firstly, coaching fee + living in kota was almost equal to my one years fee in college. And I think some tier 2 + tier 3 colleges have even more fee than IITs.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46d78d9160b9b60d760e1c7157d148b)
-- [@nishantwrp: I don’t understand why people think of IITians as “privileged” people. Didn’t they work hard to get a good score in JEE?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46c75df140f9164d360e5c21b78108f)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
