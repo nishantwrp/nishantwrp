@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#90](https://github.com/nishantwrp/gsoc-organizations/pull/90) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-2. ❗️ Opened issue [#91](https://github.com/nishantwrp/gsoc-organizations/issues/91) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-3. 🤝 Became collaborator on [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-4. ❌ Closed PR [#89](https://github.com/nishantwrp/gsoc-organizations/pull/89) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-5. 💬 Commented on [#89](https://github.com/nishantwrp/gsoc-organizations/pull/89#issuecomment-1366107400) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-6. 💪 Opened PR [#90](https://github.com/nishantwrp/gsoc-organizations/pull/90) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-7. 💬 Commented on [#71](https://github.com/joplin/plugin-templates/issues/71#issuecomment-1365097092) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-8. ✔️ Closed issue [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-9. 💬 Commented on [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84#issuecomment-1364684075) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
-10. 🔴 Requested 1 change(s) for [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87#pullrequestreview-1225027090) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+1. 🎉 Merged PR [#90](https://github.com/nishantwrp/gsoc-organizations/pull/90) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ❗️ Opened issue [#91](https://github.com/nishantwrp/gsoc-organizations/issues/91) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 🤝 Became collaborator on [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. ❌ Closed PR [#89](https://github.com/nishantwrp/gsoc-organizations/pull/89) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 💬 Commented on [#89](https://github.com/nishantwrp/gsoc-organizations/pull/89#issuecomment-1366107400) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. 💪 Opened PR [#90](https://github.com/nishantwrp/gsoc-organizations/pull/90) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 💬 Commented on [#71](https://github.com/joplin/plugin-templates/issues/71#issuecomment-1365097092) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+8. ✔️ Closed issue [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+9. 💬 Commented on [#84](https://github.com/nishantwrp/gsoc-organizations/issues/84#issuecomment-1364684075) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+10. 🔴 Requested 1 change(s) for [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87#pullrequestreview-1225027090) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
