@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#81](https://github.com/nishantwrp/gsoc-organizations/issues/81#issuecomment-1374788700) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. 💬 Commented on [#6266](https://github.com/meshery/meshery/issues/6266#issuecomment-1374615041) in [meshery/meshery](https://github.com/meshery/meshery)<br>
-3. ✔️ Closed issue [#71](https://github.com/joplin/plugin-templates/issues/71) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1374607833) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
-5. 🎉 Merged PR [#90](https://github.com/nishantwrp/gsoc-organizations/pull/90) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-6. ❗️ Opened issue [#91](https://github.com/nishantwrp/gsoc-organizations/issues/91) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. 🤝 Became collaborator on [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-8. ❌ Closed PR [#89](https://github.com/nishantwrp/gsoc-organizations/pull/89) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-9. 💬 Commented on [#89](https://github.com/nishantwrp/gsoc-organizations/pull/89#issuecomment-1366107400) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-10. 💪 Opened PR [#90](https://github.com/nishantwrp/gsoc-organizations/pull/90) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1377616034) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
+2. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1377505770) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
+3. 💬 Commented on [#81](https://github.com/nishantwrp/gsoc-organizations/issues/81#issuecomment-1374788700) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#6266](https://github.com/meshery/meshery/issues/6266#issuecomment-1374615041) in [meshery/meshery](https://github.com/meshery/meshery)<br>
+5. ✔️ Closed issue [#71](https://github.com/joplin/plugin-templates/issues/71) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1374607833) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
+7. 🎉 Merged PR [#90](https://github.com/nishantwrp/gsoc-organizations/pull/90) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+8. ❗️ Opened issue [#91](https://github.com/nishantwrp/gsoc-organizations/issues/91) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+9. 🤝 Became collaborator on [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+10. ❌ Closed PR [#89](https://github.com/nishantwrp/gsoc-organizations/pull/89) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
