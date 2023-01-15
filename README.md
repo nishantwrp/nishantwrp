@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#74](https://github.com/nishantwrp/gsoc-organizations/issues/74#issuecomment-1381941733) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. ✔️ Closed issue [#46](https://github.com/nishantwrp/gsoc-organizations/issues/46) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. ✔️ Closed issue [#67](https://github.com/nishantwrp/gsoc-organizations/issues/67) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. 👍 Approved [#35](https://github.com/meshery/homebrew-tap/pull/35#pullrequestreview-1242873510) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
-5. 💬 Commented on [#35](https://github.com/meshery/homebrew-tap/pull/35#discussion_r1066251698) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
-6. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1377616034) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
-7. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1377505770) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
-8. 💬 Commented on [#81](https://github.com/nishantwrp/gsoc-organizations/issues/81#issuecomment-1374788700) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-9. 💬 Commented on [#6266](https://github.com/meshery/meshery/issues/6266#issuecomment-1374615041) in [meshery/meshery](https://github.com/meshery/meshery)<br>
-10. ✔️ Closed issue [#71](https://github.com/joplin/plugin-templates/issues/71) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 💬 Commented on [#92](https://github.com/nishantwrp/gsoc-organizations/pull/92#issuecomment-1382906681) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 💬 Commented on [#74](https://github.com/nishantwrp/gsoc-organizations/issues/74#issuecomment-1381941733) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. ✔️ Closed issue [#46](https://github.com/nishantwrp/gsoc-organizations/issues/46) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. ✔️ Closed issue [#67](https://github.com/nishantwrp/gsoc-organizations/issues/67) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 👍 Approved [#35](https://github.com/meshery/homebrew-tap/pull/35#pullrequestreview-1242873510) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
+6. 💬 Commented on [#35](https://github.com/meshery/homebrew-tap/pull/35#discussion_r1066251698) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
+7. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1377616034) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
+8. 💬 Commented on [#33](https://github.com/meshery/homebrew-tap/issues/33#issuecomment-1377505770) in [meshery/homebrew-tap](https://github.com/meshery/homebrew-tap)<br>
+9. 💬 Commented on [#81](https://github.com/nishantwrp/gsoc-organizations/issues/81#issuecomment-1374788700) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+10. 💬 Commented on [#6266](https://github.com/meshery/meshery/issues/6266#issuecomment-1374615041) in [meshery/meshery](https://github.com/meshery/meshery)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
