@@ -23,11 +23,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### 📱 Recent Tweets
 <!-- TWITTER:START -->
+- [@nishantwrp: Verifying myself: I am nishantwrp on . _xO4fnOVVPMUx2rkisL04rB4kXpKv1qZ37SB /](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef2a76a79de1c089063d268e1c71a7c1189)
 - [@nishantwrp: My Google Summer of Code project with @joplinapp reached 100 GitHub stars :&rpar;.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3aa6b7bd6120a9662dd69e3c4147d1c83)
 - [@nishantwrp: Also, the site just crossed 300k page views 🎉.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a56275dd160e9360d661e8c51772108a)
 - [@nishantwrp: Got some time to work on  this weekend. Applied some react concepts &lpar;that I didn&#39;t know earlier&rpar; like memoization to the application. Also, fixed bugs like filters and search not updating according to the url when you press back on your browser.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a56275dd150b9762d36ce8c2127d1483)
 - [@nishantwrp: When working on a project, it’s natural to want to keep working on new things. But, sometimes it’s more important to work on not so interesting things like writing tests, documentation, performance improvements, etc.How to keep myself motivated to work on such things?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a56978dc1c079561dc6ae4ca147c1189)
-- [@nishantwrp: Merry Christmas everyone! 🎅](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1136a1e9c3ec930d979628d4f61eb1492ac7df6ef3a46379d715079164d56fe2ca177b1c82)
 <!-- TWITTER:END -->
 ➡️ [more tweets...](http://urls.nishantwrp.com/github-to-twitter)
 
