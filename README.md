@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#43](https://github.com/nishantwrp/gsoc-organizations/issues/43#issuecomment-1410922931) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. ✔️ Closed issue [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
-3. 💬 Commented on [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8#issuecomment-1410207548) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
-4. 💪 Opened PR [#6953](https://github.com/meshery/meshery/pull/6953) in [meshery/meshery](https://github.com/meshery/meshery)<br>
-5. 🎉 Merged PR [#93](https://github.com/nishantwrp/gsoc-organizations/pull/93) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-6. 👍 Approved [#93](https://github.com/nishantwrp/gsoc-organizations/pull/93#pullrequestreview-1271865815) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. 🎉 Merged PR [#92](https://github.com/nishantwrp/gsoc-organizations/pull/92) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-8. 👍 Approved [#92](https://github.com/nishantwrp/gsoc-organizations/pull/92#pullrequestreview-1265837113) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-9. 💬 Commented on [#92](https://github.com/nishantwrp/gsoc-organizations/pull/92#issuecomment-1382906681) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-10. 💬 Commented on [#74](https://github.com/nishantwrp/gsoc-organizations/issues/74#issuecomment-1381941733) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 🎉 Merged PR [#4](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/4) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+2. 💬 Commented on [#43](https://github.com/nishantwrp/gsoc-organizations/issues/43#issuecomment-1410922931) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. ✔️ Closed issue [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
+4. 💬 Commented on [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8#issuecomment-1410207548) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
+5. 💪 Opened PR [#6953](https://github.com/meshery/meshery/pull/6953) in [meshery/meshery](https://github.com/meshery/meshery)<br>
+6. 🎉 Merged PR [#93](https://github.com/nishantwrp/gsoc-organizations/pull/93) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 👍 Approved [#93](https://github.com/nishantwrp/gsoc-organizations/pull/93#pullrequestreview-1271865815) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+8. 🎉 Merged PR [#92](https://github.com/nishantwrp/gsoc-organizations/pull/92) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+9. 👍 Approved [#92](https://github.com/nishantwrp/gsoc-organizations/pull/92#pullrequestreview-1265837113) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+10. 💬 Commented on [#92](https://github.com/nishantwrp/gsoc-organizations/pull/92#issuecomment-1382906681) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
