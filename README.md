@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6272](https://github.com/meshery/meshery/issues/6272#issuecomment-1425890212) in [meshery/meshery](https://github.com/meshery/meshery)<br>
-2. ❗️ Opened issue [#15985](https://github.com/yugabyte/yugabyte-db/issues/15985) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-3. ❌ Closed PR [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
-5. 🎉 Merged PR [#4](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/4) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
-6. 💬 Commented on [#43](https://github.com/nishantwrp/gsoc-organizations/issues/43#issuecomment-1410922931) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. ✔️ Closed issue [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
-8. 💬 Commented on [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8#issuecomment-1410207548) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
-9. 💪 Opened PR [#6953](https://github.com/meshery/meshery/pull/6953) in [meshery/meshery](https://github.com/meshery/meshery)<br>
-10. 🎉 Merged PR [#93](https://github.com/nishantwrp/gsoc-organizations/pull/93) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)<br>
+2. 💬 Commented on [#6272](https://github.com/meshery/meshery/issues/6272#issuecomment-1425890212) in [meshery/meshery](https://github.com/meshery/meshery)<br>
+3. ❗️ Opened issue [#15985](https://github.com/yugabyte/yugabyte-db/issues/15985) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+4. ❌ Closed PR [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
+6. 🎉 Merged PR [#4](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/4) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+7. 💬 Commented on [#43](https://github.com/nishantwrp/gsoc-organizations/issues/43#issuecomment-1410922931) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+8. ✔️ Closed issue [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
+9. 💬 Commented on [#8](https://github.com/krashish8/lets-meet-slack-bot/issues/8#issuecomment-1410207548) in [krashish8/lets-meet-slack-bot](https://github.com/krashish8/lets-meet-slack-bot)<br>
+10. 💪 Opened PR [#6953](https://github.com/meshery/meshery/pull/6953) in [meshery/meshery](https://github.com/meshery/meshery)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
