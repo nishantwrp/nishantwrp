@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-2. ⭐ Starred [yjs/yjs](https://github.com/yjs/yjs)<br>
-3. 🔱 Forked [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples) from [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-4. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)<br>
-5. 💬 Commented on [#6272](https://github.com/meshery/meshery/issues/6272#issuecomment-1425890212) in [meshery/meshery](https://github.com/meshery/meshery)<br>
-6. ❗️ Opened issue [#15985](https://github.com/yugabyte/yugabyte-db/issues/15985) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-7. ❌ Closed PR [#87](https://github.com/nishantwrp/gsoc-organizations/pull/87) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-8. ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
-9. 🎉 Merged PR [#4](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/4) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
-10. 💬 Commented on [#43](https://github.com/nishantwrp/gsoc-organizations/issues/43#issuecomment-1410922931) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. ✔️ Closed issue [#15985](https://github.com/yugabyte/yugabyte-db/issues/15985) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+2. ✔️ Closed issue [#16120](https://github.com/yugabyte/yugabyte-db/issues/16120) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+3. 💬 Commented on [#73](https://github.com/joplin/plugin-templates/issues/73#issuecomment-1445126998) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. 💬 Commented on [#73](https://github.com/joplin/plugin-templates/issues/73#issuecomment-1445126762) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. 💬 Commented on [#22](https://github.com/yugabyte/cdc-examples/pull/22#issuecomment-1445124195) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+6. 💬 Commented on [#22](https://github.com/yugabyte/cdc-examples/pull/22#discussion_r1117926810) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+7. 💪 Opened PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+8. ⭐ Starred [yjs/yjs](https://github.com/yjs/yjs)<br>
+9. 🔱 Forked [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples) from [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+10. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
