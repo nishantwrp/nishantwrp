@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#15985](https://github.com/yugabyte/yugabyte-db/issues/15985) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-2. ✔️ Closed issue [#16120](https://github.com/yugabyte/yugabyte-db/issues/16120) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-3. 💬 Commented on [#73](https://github.com/joplin/plugin-templates/issues/73#issuecomment-1445126998) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. 💬 Commented on [#73](https://github.com/joplin/plugin-templates/issues/73#issuecomment-1445126762) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 💬 Commented on [#22](https://github.com/yugabyte/cdc-examples/pull/22#issuecomment-1445124195) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-6. 💬 Commented on [#22](https://github.com/yugabyte/cdc-examples/pull/22#discussion_r1117926810) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-7. 💪 Opened PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-8. ⭐ Starred [yjs/yjs](https://github.com/yjs/yjs)<br>
-9. 🔱 Forked [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples) from [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-10. ⭐ Starred [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)<br>
+1. ✔️ Closed issue [#95](https://github.com/nishantwrp/gsoc-organizations/issues/95) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 🎉 Merged PR [#96](https://github.com/nishantwrp/gsoc-organizations/pull/96) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 💪 Opened PR [#96](https://github.com/nishantwrp/gsoc-organizations/pull/96) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. ✔️ Closed issue [#15985](https://github.com/yugabyte/yugabyte-db/issues/15985) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+5. ✔️ Closed issue [#16120](https://github.com/yugabyte/yugabyte-db/issues/16120) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+6. 💬 Commented on [#73](https://github.com/joplin/plugin-templates/issues/73#issuecomment-1445126998) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. 💬 Commented on [#73](https://github.com/joplin/plugin-templates/issues/73#issuecomment-1445126762) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+8. 💬 Commented on [#22](https://github.com/yugabyte/cdc-examples/pull/22#issuecomment-1445124195) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+9. 💬 Commented on [#22](https://github.com/yugabyte/cdc-examples/pull/22#discussion_r1117926810) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+10. 💪 Opened PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
