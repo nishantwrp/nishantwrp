@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect)<br>
-2. ⭐ Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)<br>
-3. ⭐ Starred [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-4. 💬 Commented on [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5#issuecomment-1454771121) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-5. ❗️ Opened issue [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-6. ✔️ Closed issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. ❗️ Opened issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-8. 💬 Commented on [#6480](https://github.com/meshery/meshery/issues/6480#issuecomment-1445430830) in [meshery/meshery](https://github.com/meshery/meshery)<br>
-9. 💬 Commented on [#70](https://github.com/joplin/plugin-templates/issues/70#issuecomment-1445425180) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-10. ✔️ Closed issue [#95](https://github.com/nishantwrp/gsoc-organizations/issues/95) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 🎉 Merged PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+2. ⭐ Starred [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect)<br>
+3. ⭐ Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)<br>
+4. ⭐ Starred [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
+5. 💬 Commented on [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5#issuecomment-1454771121) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
+6. ❗️ Opened issue [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
+7. ✔️ Closed issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+8. ❗️ Opened issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+9. 💬 Commented on [#6480](https://github.com/meshery/meshery/issues/6480#issuecomment-1445430830) in [meshery/meshery](https://github.com/meshery/meshery)<br>
+10. 💬 Commented on [#70](https://github.com/joplin/plugin-templates/issues/70#issuecomment-1445425180) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
