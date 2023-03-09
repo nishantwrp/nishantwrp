@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#98](https://github.com/nishantwrp/gsoc-organizations/issues/98) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. 🎉 Merged PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-3. ⭐ Starred [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect)<br>
-4. ⭐ Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)<br>
-5. ⭐ Starred [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-6. 💬 Commented on [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5#issuecomment-1454771121) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-7. ❗️ Opened issue [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-8. ✔️ Closed issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-9. ❗️ Opened issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-10. 💬 Commented on [#6480](https://github.com/meshery/meshery/issues/6480#issuecomment-1445430830) in [meshery/meshery](https://github.com/meshery/meshery)<br>
+1. 💪 Opened PR [#23](https://github.com/yugabyte/cdc-examples/pull/23) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+2. ❗️ Opened issue [#98](https://github.com/nishantwrp/gsoc-organizations/issues/98) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 🎉 Merged PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+4. ⭐ Starred [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect)<br>
+5. ⭐ Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)<br>
+6. ⭐ Starred [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
+7. 💬 Commented on [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5#issuecomment-1454771121) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
+8. ❗️ Opened issue [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
+9. ✔️ Closed issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+10. ❗️ Opened issue [#97](https://github.com/nishantwrp/gsoc-organizations/issues/97) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
