@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#23](https://github.com/yugabyte/cdc-examples/pull/23) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-2. 💬 Commented on [#23](https://github.com/yugabyte/cdc-examples/pull/23#discussion_r1130658062) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-3. 💪 Opened PR [#23](https://github.com/yugabyte/cdc-examples/pull/23) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-4. ❗️ Opened issue [#98](https://github.com/nishantwrp/gsoc-organizations/issues/98) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-5. 🎉 Merged PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-6. ⭐ Starred [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect)<br>
-7. ⭐ Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)<br>
-8. ⭐ Starred [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-9. 💬 Commented on [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5#issuecomment-1454771121) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
-10. ❗️ Opened issue [#5](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/issues/5) in [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)<br>
+1. 💬 Commented on [#99](https://github.com/nishantwrp/gsoc-organizations/pull/99#issuecomment-1473259893) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 💬 Commented on [#99](https://github.com/nishantwrp/gsoc-organizations/pull/99#issuecomment-1473258554) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. ❌ Closed PR [#99](https://github.com/nishantwrp/gsoc-organizations/pull/99) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#99](https://github.com/nishantwrp/gsoc-organizations/pull/99#issuecomment-1473170830) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 🎉 Merged PR [#23](https://github.com/yugabyte/cdc-examples/pull/23) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+6. 💬 Commented on [#23](https://github.com/yugabyte/cdc-examples/pull/23#discussion_r1130658062) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+7. 💪 Opened PR [#23](https://github.com/yugabyte/cdc-examples/pull/23) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+8. ❗️ Opened issue [#98](https://github.com/nishantwrp/gsoc-organizations/issues/98) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+9. 🎉 Merged PR [#22](https://github.com/yugabyte/cdc-examples/pull/22) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+10. ⭐ Starred [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
