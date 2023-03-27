@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148883751) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-2. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148833961) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-3. 💪 Opened PR [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-4. 🔱 Forked [nishantwrp/debezium-connector-yugabytedb](https://github.com/nishantwrp/debezium-connector-yugabytedb) from [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-5. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143889694) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-6. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143801289) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-7. 🔱 Forked [nishantwrp/gcn](https://github.com/nishantwrp/gcn) from [tkipf/gcn](https://github.com/tkipf/gcn)<br>
-8. 💪 Opened PR [#25](https://github.com/yugabyte/cdc-examples/pull/25) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-9. ✔️ Closed issue [#16453](https://github.com/yugabyte/yugabyte-db/issues/16453) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-10. 💬 Commented on [#99](https://github.com/nishantwrp/gsoc-organizations/pull/99#issuecomment-1473259893) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#issuecomment-1484821537) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+2. ❗️ Opened issue [#190](https://github.com/yugabyte/debezium-connector-yugabytedb/issues/190) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+3. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148883751) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+4. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148833961) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+5. 💪 Opened PR [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+6. 🔱 Forked [nishantwrp/debezium-connector-yugabytedb](https://github.com/nishantwrp/debezium-connector-yugabytedb) from [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+7. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143889694) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+8. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143801289) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+9. 🔱 Forked [nishantwrp/gcn](https://github.com/nishantwrp/gcn) from [tkipf/gcn](https://github.com/tkipf/gcn)<br>
+10. 💪 Opened PR [#25](https://github.com/yugabyte/cdc-examples/pull/25) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
