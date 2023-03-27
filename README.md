@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#issuecomment-1484821537) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-2. ❗️ Opened issue [#190](https://github.com/yugabyte/debezium-connector-yugabytedb/issues/190) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-3. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148883751) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-4. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148833961) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-5. 💪 Opened PR [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-6. 🔱 Forked [nishantwrp/debezium-connector-yugabytedb](https://github.com/nishantwrp/debezium-connector-yugabytedb) from [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-7. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143889694) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-8. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143801289) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-9. 🔱 Forked [nishantwrp/gcn](https://github.com/nishantwrp/gcn) from [tkipf/gcn](https://github.com/tkipf/gcn)<br>
-10. 💪 Opened PR [#25](https://github.com/yugabyte/cdc-examples/pull/25) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+1. 🎉 Merged PR [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+2. ✔️ Closed issue [#190](https://github.com/yugabyte/debezium-connector-yugabytedb/issues/190) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+3. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#issuecomment-1484821537) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+4. ❗️ Opened issue [#190](https://github.com/yugabyte/debezium-connector-yugabytedb/issues/190) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+5. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148883751) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+6. 💬 Commented on [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189#discussion_r1148833961) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+7. 💪 Opened PR [#189](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/189) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+8. 🔱 Forked [nishantwrp/debezium-connector-yugabytedb](https://github.com/nishantwrp/debezium-connector-yugabytedb) from [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+9. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143889694) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+10. 💬 Commented on [#25](https://github.com/yugabyte/cdc-examples/pull/25#discussion_r1143801289) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
