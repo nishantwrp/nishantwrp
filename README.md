@@ -36,16 +36,16 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### ⚡ Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1156743393) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-2. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155380165) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-3. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379986) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-4. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379863) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-5. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379850) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-6. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379840) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-7. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379827) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
-8. 💬 Commented on [#100](https://github.com/nishantwrp/gsoc-organizations/issues/100#issuecomment-1492897094) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-9. ✔️ Closed issue [#100](https://github.com/nishantwrp/gsoc-organizations/issues/100) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-10. 💪 Opened PR [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+1. 💬 Commented on [#102](https://github.com/nishantwrp/gsoc-organizations/issues/102#issuecomment-1497081855) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ✔️ Closed issue [#200](https://github.com/yugabyte/debezium-connector-yugabytedb/issues/200) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+3. 🎉 Merged PR [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+4. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1156743393) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+5. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155380165) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+6. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379986) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+7. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379863) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+8. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379850) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+9. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379840) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+10. 💬 Commented on [#201](https://github.com/yugabyte/debezium-connector-yugabytedb/pull/201#discussion_r1155379827) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
