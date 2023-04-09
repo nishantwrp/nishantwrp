@@ -11,6 +11,8 @@ settings:
     - review
     - star
     - wiki
-  max_lines: 10
+    - push
+  max_lines: 7
   commit_username: albusbot
   commit_email: bot@nishantwrp.com
+  commit_msg: "chore: fetch latest github activity"
