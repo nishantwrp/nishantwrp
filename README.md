@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#27](https://github.com/yugabyte/cdc-examples/pull/27) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-2. ⬆️ Pushed 1 commit(s) to [nishantwrp/nishantwrp](https://github.com/nishantwrp/nishantwrp)<br>
-3. 💪 Opened PR [#26](https://github.com/yugabyte/cdc-examples/pull/26) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-4. ⬆️ Pushed 2 commit(s) to [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples)<br>
-5. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-6. 💬 Commented on [#102](https://github.com/nishantwrp/gsoc-organizations/issues/102#issuecomment-1497081855) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. ✔️ Closed issue [#200](https://github.com/yugabyte/debezium-connector-yugabytedb/issues/200) in [yugabyte/debezium-connector-yugabytedb](https://github.com/yugabyte/debezium-connector-yugabytedb)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples)<br>
+2. 💪 Opened PR [#27](https://github.com/yugabyte/cdc-examples/pull/27) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+3. ⬆️ Pushed 1 commit(s) to [nishantwrp/nishantwrp](https://github.com/nishantwrp/nishantwrp)<br>
+4. 💪 Opened PR [#26](https://github.com/yugabyte/cdc-examples/pull/26) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+5. ⬆️ Pushed 2 commit(s) to [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples)<br>
+6. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+7. 💬 Commented on [#102](https://github.com/nishantwrp/gsoc-organizations/issues/102#issuecomment-1497081855) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
