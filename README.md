@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-2. 🎉 Merged PR [#27](https://github.com/yugabyte/cdc-examples/pull/27) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-3. ⬆️ Pushed 1 commit(s) to [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples)<br>
-4. 💬 Commented on [#27](https://github.com/yugabyte/cdc-examples/pull/27#discussion_r1161630063) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-5. 💬 Commented on [#27](https://github.com/yugabyte/cdc-examples/pull/27#discussion_r1161628914) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-6. 💬 Commented on [#27](https://github.com/yugabyte/cdc-examples/pull/27#discussion_r1161628882) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
-7. 💬 Commented on [#27](https://github.com/yugabyte/cdc-examples/pull/27#discussion_r1161628592) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+1. 👍 Approved [#1117](https://github.com/meshery/meshery.io/pull/1117#pullrequestreview-1382570891) in [meshery/meshery.io](https://github.com/meshery/meshery.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+3. 🎉 Merged PR [#27](https://github.com/yugabyte/cdc-examples/pull/27) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+4. ⬆️ Pushed 1 commit(s) to [nishantwrp/cdc-examples](https://github.com/nishantwrp/cdc-examples)<br>
+5. 💬 Commented on [#27](https://github.com/yugabyte/cdc-examples/pull/27#discussion_r1161630063) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+6. 💬 Commented on [#27](https://github.com/yugabyte/cdc-examples/pull/27#discussion_r1161628914) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
+7. 💬 Commented on [#27](https://github.com/yugabyte/cdc-examples/pull/27#discussion_r1161628882) in [yugabyte/cdc-examples](https://github.com/yugabyte/cdc-examples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
