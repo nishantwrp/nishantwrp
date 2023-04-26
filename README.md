@@ -21,7 +21,7 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 <table><tr>
 <td valign="center" width="50%"><div align="center">
 
-[![Recent Tweets](https://github-readme-twitter.gazf.vercel.app/api?id=nishantwrp)](http://urls.nishantwrp.com/github-to-twitter)
+<a href="http://urls.nishantwrp.com/github-to-twitter"><img src="https://gtce.itsvg.in/api?username=nishantwrp&theme=transparent&response=true&border=false&time=true&icon=default" style="height:100%"/></a>
 
 </div></td>
 
