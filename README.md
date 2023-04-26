@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/nishantwrp](https://github.com/nishantwrp/nishantwrp)<br>
 2. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
 3. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-4. ⬆️ Pushed 5 commit(s) to [nishantwrp/gcn](https://github.com/nishantwrp/gcn)<br>
-5. ✔️ Closed issue [#16329](https://github.com/yugabyte/yugabyte-db/issues/16329) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-6. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-7. ⭐ Starred [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+4. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+5. ⬆️ Pushed 5 commit(s) to [nishantwrp/gcn](https://github.com/nishantwrp/gcn)<br>
+6. ✔️ Closed issue [#16329](https://github.com/yugabyte/yugabyte-db/issues/16329) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+7. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
