@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
-2. ✔️ Closed issue [#16511](https://github.com/yugabyte/yugabyte-db/issues/16511) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-3. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-4. ⬆️ Pushed 2 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
-5. 💬 Commented on [#281](https://github.com/Readme-Workflows/recent-activity/issues/281#issuecomment-1541492689) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-6. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1537499124) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#74](https://github.com/nishantwrp/gsoc-organizations/issues/74#issuecomment-1537498667) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+2. ⬆️ Pushed 4 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+3. ✔️ Closed issue [#16511](https://github.com/yugabyte/yugabyte-db/issues/16511) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+4. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+5. ⬆️ Pushed 2 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+6. 💬 Commented on [#281](https://github.com/Readme-Workflows/recent-activity/issues/281#issuecomment-1541492689) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+7. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1537499124) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
