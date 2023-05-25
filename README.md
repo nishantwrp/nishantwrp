@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
-2. ⬆️ Pushed 3 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
-3. ⬆️ Pushed 1 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
-4. ⬆️ Pushed 4 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
-5. ✔️ Closed issue [#16511](https://github.com/yugabyte/yugabyte-db/issues/16511) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-6. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-7. ⬆️ Pushed 2 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+1. ⬆️ Pushed 2 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+2. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. ⬆️ Pushed 3 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+4. ⬆️ Pushed 3 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+5. ⬆️ Pushed 1 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+6. ⬆️ Pushed 4 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+7. ✔️ Closed issue [#16511](https://github.com/yugabyte/yugabyte-db/issues/16511) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
