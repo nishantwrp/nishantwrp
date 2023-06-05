@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#68](https://github.com/joplin/plugin-templates/issues/68) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1565712819) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. ✌️ Released [v2.4.0](https://github.com/joplin/plugin-templates/releases/tag/v2.4.0) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. ⬆️ Pushed 19 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
+2. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. ✔️ Closed issue [#68](https://github.com/joplin/plugin-templates/issues/68) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. 💬 Commented on [#68](https://github.com/joplin/plugin-templates/issues/68#issuecomment-1565712819) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 5. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. ❗️ Opened issue [#17546](https://github.com/yugabyte/yugabyte-db/issues/17546) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+6. ✌️ Released [v2.4.0](https://github.com/joplin/plugin-templates/releases/tag/v2.4.0) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
