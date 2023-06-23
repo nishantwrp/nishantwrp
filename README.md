@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-2. ❗️ Opened issue [#17795](https://github.com/yugabyte/yugabyte-db/issues/17795) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-3. 💬 Commented on [#64](https://github.com/joplin/plugin-templates/issues/64#issuecomment-1591430606) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. 👍 Approved [#4355](https://github.com/layer5io/layer5/pull/4355#pullrequestreview-1469690135) in [layer5io/layer5](https://github.com/layer5io/layer5)<br>
-5. ⬆️ Pushed 19 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
-6. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. ✔️ Closed issue [#68](https://github.com/joplin/plugin-templates/issues/68) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. ✔️ Closed issue [#17795](https://github.com/yugabyte/yugabyte-db/issues/17795) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+2. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+3. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+4. ❗️ Opened issue [#17795](https://github.com/yugabyte/yugabyte-db/issues/17795) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+5. 💬 Commented on [#64](https://github.com/joplin/plugin-templates/issues/64#issuecomment-1591430606) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. 👍 Approved [#4355](https://github.com/layer5io/layer5/pull/4355#pullrequestreview-1469690135) in [layer5io/layer5](https://github.com/layer5io/layer5)<br>
+7. ⬆️ Pushed 19 commit(s) to [nishantwrp/yugabyte-db](https://github.com/nishantwrp/yugabyte-db)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
