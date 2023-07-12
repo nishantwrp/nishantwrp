@@ -29,13 +29,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-2. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+2. 🎉 Merged PR [#29](https://github.com/nishantwrp/vue-gitalk/pull/29) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
 3. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
 4. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
 5. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-6. ❗️ Opened issue [#18145](https://github.com/yugabyte/yugabyte-db/issues/18145) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
-7. 💬 Commented on [#17969](https://github.com/yugabyte/yugabyte-db/issues/17969#issuecomment-1623007312) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+6. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+7. ⬆️ Pushed 1 commit(s) to [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
