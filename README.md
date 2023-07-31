@@ -19,13 +19,8 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 - 💬 Get in touch or Ask me Anything on [Twitter](http://urls.nishantwrp.com/github-to-twitter).
 
 <table><tr>
-<td valign="center" width="50%"><div align="center">
-
-<a href="http://urls.nishantwrp.com/github-to-twitter"><img src="https://gtce.itsvg.in/api?username=nishantwrp&theme=transparent&response=true&border=false&time=true&icon=default" style="height:100%"/></a>
-
-</div></td>
-
-<td valign="top" width="50%">
+  
+<td valign="top" width="100%">
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
