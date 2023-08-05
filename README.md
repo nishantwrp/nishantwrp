@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#98](https://github.com/nishantwrp/gsoc-organizations/issues/98#issuecomment-1666536502) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. ⬆️ Pushed 1 commit(s) to [nishantwrp/nishantwrp](https://github.com/nishantwrp/nishantwrp)<br>
-3. ⬆️ Pushed 1 commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. 🎉 Merged PR [#104](https://github.com/nishantwrp/gsoc-organizations/pull/104) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-5. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-6. 🎉 Merged PR [#30](https://github.com/nishantwrp/vue-gitalk/pull/30) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-7. 💬 Commented on [#17969](https://github.com/yugabyte/yugabyte-db/issues/17969#issuecomment-1635624500) in [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)<br>
+1. 💬 Commented on [#78](https://github.com/joplin/plugin-templates/issues/78#issuecomment-1666590912) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. 💬 Commented on [#98](https://github.com/nishantwrp/gsoc-organizations/issues/98#issuecomment-1666536502) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. ⬆️ Pushed 1 commit(s) to [nishantwrp/nishantwrp](https://github.com/nishantwrp/nishantwrp)<br>
+4. ⬆️ Pushed 1 commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 🎉 Merged PR [#104](https://github.com/nishantwrp/gsoc-organizations/pull/104) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+7. 🎉 Merged PR [#30](https://github.com/nishantwrp/vue-gitalk/pull/30) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
