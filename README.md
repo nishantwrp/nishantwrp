@@ -25,12 +25,12 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. 💬 Commented on [#69](https://github.com/joplin/plugin-templates/pull/69#issuecomment-1791449719) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. ❌ Closed PR [#69](https://github.com/joplin/plugin-templates/pull/69) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 4. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. 💬 Commented on [#79](https://github.com/joplin/plugin-templates/pull/79#issuecomment-1784882670) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#109](https://github.com/nishantwrp/gsoc-organizations/issues/109#issuecomment-1784118358) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 💬 Commented on [#69](https://github.com/joplin/plugin-templates/pull/69#issuecomment-1791449719) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. ❌ Closed PR [#69](https://github.com/joplin/plugin-templates/pull/69) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
