@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#108](https://github.com/nishantwrp/gsoc-organizations/pull/108#issuecomment-1806333955) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-3. 🎉 Merged PR [#32](https://github.com/nishantwrp/vue-gitalk/pull/32) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-4. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. 💬 Commented on [#56](https://github.com/joplin/plugin-templates/issues/56#issuecomment-1803698440) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#64](https://github.com/joplin/plugin-templates/issues/64#issuecomment-1803694215) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 🎉 Merged PR [#110](https://github.com/nishantwrp/gsoc-organizations/pull/110) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 👍 Approved [#110](https://github.com/nishantwrp/gsoc-organizations/pull/110#pullrequestreview-1726118638) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#108](https://github.com/nishantwrp/gsoc-organizations/pull/108#issuecomment-1806333955) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+6. 🎉 Merged PR [#32](https://github.com/nishantwrp/vue-gitalk/pull/32) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+7. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
