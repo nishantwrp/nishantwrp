@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
-2. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. ⬆️ Pushed 2 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 🤝 Became collaborator on [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
-6. 📔 Created new repository [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
-7. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. ❗️ Opened issue [#80](https://github.com/joplin/plugin-templates/issues/80) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
+3. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
+4. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. ⬆️ Pushed 2 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. 🤝 Became collaborator on [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
