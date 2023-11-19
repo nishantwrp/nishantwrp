@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#80](https://github.com/joplin/plugin-templates/issues/80) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
-3. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
-4. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. ⬆️ Pushed 2 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 🤝 Became collaborator on [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
+1. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1398277962) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+2. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1398277806) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+3. 💪 Opened PR [#72763](https://github.com/llvm/llvm-project/pull/72763) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+4. 🔱 Forked [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project) from [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+5. ❗️ Opened issue [#80](https://github.com/joplin/plugin-templates/issues/80) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
+7. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
