@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
-2. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#issuecomment-1820583629) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-3. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1400306770) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-4. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1400307928) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-5. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1400306961) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-6. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
-7. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1398277962) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+1. ❗️ Opened issue [#82](https://github.com/joplin/plugin-templates/issues/82) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
+3. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#issuecomment-1820583629) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+4. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1400306770) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+5. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1400307928) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+6. 💬 Commented on [#72763](https://github.com/llvm/llvm-project/pull/72763#discussion_r1400306961) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+7. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
