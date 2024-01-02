@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#75009](https://github.com/llvm/llvm-project/pull/75009#issuecomment-1849066681) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-2. 💪 Opened PR [#75009](https://github.com/llvm/llvm-project/pull/75009) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-3. 💬 Commented on [#102](https://github.com/nishantwrp/gsoc-organizations/issues/102#issuecomment-1837419994) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. 💬 Commented on [#73698](https://github.com/llvm/llvm-project/pull/73698#discussion_r1411134482) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-5. 💬 Commented on [#73556](https://github.com/llvm/llvm-project/pull/73556#discussion_r1407189085) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-6. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
-7. 💬 Commented on [#73556](https://github.com/llvm/llvm-project/pull/73556#discussion_r1406626713) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+1. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1439082594) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+2. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#issuecomment-1873469400) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+3. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1439080418) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+4. 💪 Opened PR [#76690](https://github.com/llvm/llvm-project/pull/76690) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+5. 💬 Commented on [#75009](https://github.com/llvm/llvm-project/pull/75009#issuecomment-1849066681) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+6. 💪 Opened PR [#75009](https://github.com/llvm/llvm-project/pull/75009) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+7. 💬 Commented on [#102](https://github.com/nishantwrp/gsoc-organizations/issues/102#issuecomment-1837419994) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
