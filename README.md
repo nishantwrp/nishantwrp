@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1440896374) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-2. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
+2. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1440896374) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
 3. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
-4. 💬 Commented on [#79](https://github.com/joplin/plugin-templates/pull/79#issuecomment-1874987480) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1439082594) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-6. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#issuecomment-1873469400) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-7. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1439080418) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+4. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
+5. 💬 Commented on [#79](https://github.com/joplin/plugin-templates/pull/79#issuecomment-1874987480) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1439082594) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+7. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#issuecomment-1873469400) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
