@@ -24,12 +24,12 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1441437506) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-2. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
-3. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1441425009) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+1. 💬 Commented on [#76931](https://github.com/llvm/llvm-project/pull/76931#issuecomment-1876809705) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+2. 💪 Opened PR [#76931](https://github.com/llvm/llvm-project/pull/76931) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+3. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1441437506) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
 4. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
-5. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
-6. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1440896374) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+5. 💬 Commented on [#76690](https://github.com/llvm/llvm-project/pull/76690#discussion_r1441425009) in [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+6. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
 7. ⬆️ Pushed 1 commit(s) to [nishantwrp/llvm-project](https://github.com/nishantwrp/llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
