@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-2. ⭐ Starred [intel/llvm](https://github.com/intel/llvm)<br>
-3. 💬 Commented on [#86](https://github.com/joplin/plugin-templates/pull/86#issuecomment-1878978407) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. 💬 Commented on [#86](https://github.com/joplin/plugin-templates/pull/86#discussion_r1443116330) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 🔴 Requested 1 change(s) for [#86](https://github.com/joplin/plugin-templates/pull/86#pullrequestreview-1806388208) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. 💬 Commented on [#86](https://github.com/joplin/plugin-templates/pull/86#discussion_r1443115549) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#86](https://github.com/joplin/plugin-templates/pull/86#discussion_r1443117138) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. ⬆️ Pushed 1 commit(s) to [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+2. 🎉 Merged PR [#8](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/8) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+3. 👍 Approved [#8](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/8#pullrequestreview-1812765808) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+4. ⭐ Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
+5. ⭐ Starred [intel/llvm](https://github.com/intel/llvm)<br>
+6. 💬 Commented on [#86](https://github.com/joplin/plugin-templates/pull/86#issuecomment-1878978407) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. 💬 Commented on [#86](https://github.com/joplin/plugin-templates/pull/86#discussion_r1443116330) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
