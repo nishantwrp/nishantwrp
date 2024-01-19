@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#66](https://github.com/joplin/plugin-templates/issues/66#issuecomment-1895445694) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. ⬆️ Pushed 1 commit(s) to [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
-3. 🎉 Merged PR [#8](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/8) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
-4. 👍 Approved [#8](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/8#pullrequestreview-1812765808) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
-5. ⭐ Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
-6. ⭐ Starred [intel/llvm](https://github.com/intel/llvm)<br>
-7. 💬 Commented on [#86](https://github.com/joplin/plugin-templates/pull/86#issuecomment-1878978407) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 💬 Commented on [#112](https://github.com/nishantwrp/gsoc-organizations/issues/112#issuecomment-1901002667) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ✔️ Closed issue [#112](https://github.com/nishantwrp/gsoc-organizations/issues/112) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 💬 Commented on [#66](https://github.com/joplin/plugin-templates/issues/66#issuecomment-1895445694) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. ⬆️ Pushed 1 commit(s) to [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+5. 🎉 Merged PR [#8](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/8) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+6. 👍 Approved [#8](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals/pull/8#pullrequestreview-1812765808) in [COPS-IITBHU/GSoC-Accepted-Proposals](https://github.com/COPS-IITBHU/GSoC-Accepted-Proposals)<br>
+7. ⭐ Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
