@@ -29,8 +29,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 3. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#issuecomment-2017501898) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 4. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#issuecomment-2017500842) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 5. ❗️ Opened issue [#8931](https://github.com/robolectric/robolectric/issues/8931) in [robolectric/robolectric](https://github.com/robolectric/robolectric)<br>
-6. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-7. ⬆️ Pushed 1 commit(s) to [nishantwrp/google-apis-oauth-django](https://github.com/nishantwrp/google-apis-oauth-django)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
