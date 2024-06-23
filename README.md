@@ -28,7 +28,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 2. 💬 Commented on [#1704](https://github.com/meshery/meshery.io/pull/1704#discussion_r1555856574) in [meshery/meshery.io](https://github.com/meshery/meshery.io)<br>
 3. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#issuecomment-2017501898) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 4. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#issuecomment-2017500842) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-5. ❗️ Opened issue [#8931](https://github.com/robolectric/robolectric/issues/8931) in [robolectric/robolectric](https://github.com/robolectric/robolectric)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
