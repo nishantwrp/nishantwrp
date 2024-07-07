@@ -25,9 +25,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-2. 🎉 Merged PR [#34](https://github.com/nishantwrp/vue-gitalk/pull/34) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-3. 👍 Approved [#1704](https://github.com/meshery/meshery.io/pull/1704#pullrequestreview-1986474646) in [meshery/meshery.io](https://github.com/meshery/meshery.io)<br>
-4. 💬 Commented on [#1704](https://github.com/meshery/meshery.io/pull/1704#discussion_r1555856574) in [meshery/meshery.io](https://github.com/meshery/meshery.io)<br>
+2. 🎉 Merged PR [#35](https://github.com/nishantwrp/vue-gitalk/pull/35) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+3. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+4. 🎉 Merged PR [#34](https://github.com/nishantwrp/vue-gitalk/pull/34) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+5. 👍 Approved [#1704](https://github.com/meshery/meshery.io/pull/1704#pullrequestreview-1986474646) in [meshery/meshery.io](https://github.com/meshery/meshery.io)<br>
+6. 💬 Commented on [#1704](https://github.com/meshery/meshery.io/pull/1704#discussion_r1555856574) in [meshery/meshery.io](https://github.com/meshery/meshery.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
