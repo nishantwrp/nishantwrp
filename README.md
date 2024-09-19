@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#99](https://github.com/joplin/plugin-templates/pull/99#issuecomment-2351822562) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. 💪 Opened PR [#100](https://github.com/joplin/plugin-templates/pull/100) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. 💪 Opened PR [#99](https://github.com/joplin/plugin-templates/pull/99) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
-5. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. 🎉 Merged PR [#98](https://github.com/joplin/plugin-templates/pull/98) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💪 Opened PR [#98](https://github.com/joplin/plugin-templates/pull/98) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
+2. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. 🎉 Merged PR [#99](https://github.com/joplin/plugin-templates/pull/99) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. 💬 Commented on [#99](https://github.com/joplin/plugin-templates/pull/99#issuecomment-2351822562) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. 💪 Opened PR [#100](https://github.com/joplin/plugin-templates/pull/100) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. 💪 Opened PR [#99](https://github.com/joplin/plugin-templates/pull/99) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
