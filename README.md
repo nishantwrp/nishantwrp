@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-2. 🎉 Merged PR [#37](https://github.com/nishantwrp/vue-gitalk/pull/37) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-3. ⬆️ Pushed 1 commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
-4. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 🎉 Merged PR [#100](https://github.com/joplin/plugin-templates/pull/100) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 💬 Commented on [#102](https://github.com/joplin/plugin-templates/issues/102#issuecomment-2486834169) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+3. 🎉 Merged PR [#38](https://github.com/nishantwrp/vue-gitalk/pull/38) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+4. 💬 Commented on [#60](https://github.com/joplin/plugin-templates/issues/60#issuecomment-2486826940) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. 💬 Commented on [#101](https://github.com/joplin/plugin-templates/issues/101#issuecomment-2486820287) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+7. 🎉 Merged PR [#37](https://github.com/nishantwrp/vue-gitalk/pull/37) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
