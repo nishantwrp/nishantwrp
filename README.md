@@ -29,8 +29,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 3. 🎉 Merged PR [#38](https://github.com/nishantwrp/vue-gitalk/pull/38) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
 4. 💬 Commented on [#60](https://github.com/joplin/plugin-templates/issues/60#issuecomment-2486826940) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 5. 💬 Commented on [#101](https://github.com/joplin/plugin-templates/issues/101#issuecomment-2486820287) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. ⬆️ Pushed 1 commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-7. 🎉 Merged PR [#37](https://github.com/nishantwrp/vue-gitalk/pull/37) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
