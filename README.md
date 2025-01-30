@@ -29,8 +29,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 3. ⬆️ Pushed 1 commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 4. ❗️ Opened issue [#103](https://github.com/joplin/plugin-templates/issues/103) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 5. ✌️ Released [Development Version](https://github.com/joplin/plugin-templates/releases/tag/dev) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. 💬 Commented on [#121](https://github.com/nishantwrp/gsoc-organizations/pull/121#issuecomment-2515726553) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#discussion_r1868470543) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
