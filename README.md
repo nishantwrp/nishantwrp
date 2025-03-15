@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#161](https://github.com/nishantwrp/gsoc-organizations/issues/161#issuecomment-2724355978) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995339721) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995339379) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995297271) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-5. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995292827) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-6. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995237656) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995212292) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995959104) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 💬 Commented on [#161](https://github.com/nishantwrp/gsoc-organizations/issues/161#issuecomment-2724355978) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995339721) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995339379) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995297271) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995292827) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995237656) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
