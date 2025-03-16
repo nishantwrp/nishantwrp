@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995959104) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. 💬 Commented on [#161](https://github.com/nishantwrp/gsoc-organizations/issues/161#issuecomment-2724355978) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995339721) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995339379) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-5. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995297271) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-6. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995292827) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. 💬 Commented on [#171](https://github.com/nishantwrp/gsoc-organizations/pull/171#discussion_r1995237656) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#issuecomment-2727392551) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ❌ Closed PR [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 💬 Commented on [#158](https://github.com/nishantwrp/gsoc-organizations/pull/158#issuecomment-2727391798) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. ✔️ Closed issue [#147](https://github.com/nishantwrp/gsoc-organizations/issues/147) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. ⬆️ Pushed 1 commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. 🎉 Merged PR [#151](https://github.com/nishantwrp/gsoc-organizations/pull/151) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 👍 Approved [#151](https://github.com/nishantwrp/gsoc-organizations/pull/151#pullrequestreview-2688661659) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
