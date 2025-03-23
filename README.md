@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#108](https://github.com/joplin/plugin-templates/issues/108#issuecomment-2744585858) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. ❗️ Opened issue [#107](https://github.com/joplin/plugin-templates/issues/107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. ❗️ Opened issue [#106](https://github.com/joplin/plugin-templates/issues/106) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#issuecomment-2727392551) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-5. ❌ Closed PR [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-6. 💬 Commented on [#158](https://github.com/nishantwrp/gsoc-organizations/pull/158#issuecomment-2727391798) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. ✔️ Closed issue [#147](https://github.com/nishantwrp/gsoc-organizations/issues/147) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 💬 Commented on [#108](https://github.com/joplin/plugin-templates/issues/108#issuecomment-2745273714) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. 💬 Commented on [#108](https://github.com/joplin/plugin-templates/issues/108#issuecomment-2744585858) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. ❗️ Opened issue [#107](https://github.com/joplin/plugin-templates/issues/107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. ❗️ Opened issue [#106](https://github.com/joplin/plugin-templates/issues/106) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. 💬 Commented on [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119#issuecomment-2727392551) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. ❌ Closed PR [#119](https://github.com/nishantwrp/gsoc-organizations/pull/119) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 💬 Commented on [#158](https://github.com/nishantwrp/gsoc-organizations/pull/158#issuecomment-2727391798) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
