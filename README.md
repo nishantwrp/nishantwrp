@@ -27,8 +27,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 1. ⭐ Starred [google/leveldb](https://github.com/google/leveldb)<br>
 2. 💬 Commented on [#108](https://github.com/joplin/plugin-templates/issues/108#issuecomment-2745273714) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 3. 💬 Commented on [#108](https://github.com/joplin/plugin-templates/issues/108#issuecomment-2744585858) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. ❗️ Opened issue [#107](https://github.com/joplin/plugin-templates/issues/107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. ❗️ Opened issue [#106](https://github.com/joplin/plugin-templates/issues/106) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
