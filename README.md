@@ -25,7 +25,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [samimsu/queens-game-linkedin](https://github.com/samimsu/queens-game-linkedin)<br>
-2. ⭐ Starred [google/leveldb](https://github.com/google/leveldb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
