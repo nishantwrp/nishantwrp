@@ -24,6 +24,7 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [multigres/multigres](https://github.com/multigres/multigres)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
