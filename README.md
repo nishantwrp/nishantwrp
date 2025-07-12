@@ -29,7 +29,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 3. ⬆️ Pushed 1 commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 4. 🎉 Merged PR [#178](https://github.com/nishantwrp/gsoc-organizations/pull/178) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 5. 💪 Opened PR [#178](https://github.com/nishantwrp/gsoc-organizations/pull/178) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-6. ⭐ Starred [multigres/multigres](https://github.com/multigres/multigres)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
