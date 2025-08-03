@@ -24,6 +24,7 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
