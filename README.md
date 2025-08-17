@@ -24,7 +24,9 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)<br>
+1. 💬 Commented on [#1830](https://github.com/google/fuzztest/issues/1830#issuecomment-3194304272) in [google/fuzztest](https://github.com/google/fuzztest)<br>
+2. ❗️ Opened issue [#1830](https://github.com/google/fuzztest/issues/1830) in [google/fuzztest](https://github.com/google/fuzztest)<br>
+3. ⭐ Starred [tursodatabase/libsql](https://github.com/tursodatabase/libsql)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
