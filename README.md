@@ -24,10 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#182](https://github.com/nishantwrp/gsoc-organizations/pull/182#issuecomment-3241097916) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. 💬 Commented on [#159](https://github.com/nishantwrp/gsoc-organizations/pull/159#issuecomment-3227435321) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. 💬 Commented on [#1830](https://github.com/google/fuzztest/issues/1830#issuecomment-3194304272) in [google/fuzztest](https://github.com/google/fuzztest)<br>
-4. ❗️ Opened issue [#1830](https://github.com/google/fuzztest/issues/1830) in [google/fuzztest](https://github.com/google/fuzztest)<br>
+1. ⬆️ Pushed 1 commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 🎉 Merged PR [#183](https://github.com/nishantwrp/gsoc-organizations/pull/183) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 👍 Approved [#183](https://github.com/nishantwrp/gsoc-organizations/pull/183#pullrequestreview-3188676664) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#182](https://github.com/nishantwrp/gsoc-organizations/pull/182#issuecomment-3241097916) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 💬 Commented on [#159](https://github.com/nishantwrp/gsoc-organizations/pull/159#issuecomment-3227435321) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. 💬 Commented on [#1830](https://github.com/google/fuzztest/issues/1830#issuecomment-3194304272) in [google/fuzztest](https://github.com/google/fuzztest)<br>
+7. ❗️ Opened issue [#1830](https://github.com/google/fuzztest/issues/1830) in [google/fuzztest](https://github.com/google/fuzztest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
