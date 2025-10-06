@@ -30,7 +30,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 4. 💬 Commented on [#182](https://github.com/nishantwrp/gsoc-organizations/pull/182#issuecomment-3271456817) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 5. 💬 Commented on [#74](https://github.com/nishantwrp/gsoc-organizations/issues/74#issuecomment-3264950336) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 6. ✔️ Closed issue [#74](https://github.com/nishantwrp/gsoc-organizations/issues/74) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. ⬆️ Pushed 1 commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
