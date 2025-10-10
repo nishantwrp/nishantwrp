@@ -26,8 +26,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#89](https://github.com/joplin/plugin-templates/issues/89#issuecomment-3314921218) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 2. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)<br>
-3. 💬 Commented on [#181](https://github.com/nishantwrp/gsoc-organizations/pull/181#issuecomment-3271768917) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. 💬 Commented on [#182](https://github.com/nishantwrp/gsoc-organizations/pull/182#issuecomment-3271456817) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
