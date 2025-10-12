@@ -24,10 +24,11 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#112](https://github.com/joplin/plugin-templates/issues/112) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. 💬 Commented on [#87](https://github.com/joplin/plugin-templates/issues/87#issuecomment-3389965107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. 💬 Commented on [#89](https://github.com/joplin/plugin-templates/issues/89#issuecomment-3314921218) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)<br>
+1. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)<br>
+2. ❗️ Opened issue [#112](https://github.com/joplin/plugin-templates/issues/112) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. 💬 Commented on [#87](https://github.com/joplin/plugin-templates/issues/87#issuecomment-3389965107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. 💬 Commented on [#89](https://github.com/joplin/plugin-templates/issues/89#issuecomment-3314921218) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
