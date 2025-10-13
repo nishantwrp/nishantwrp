@@ -28,7 +28,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 2. ❗️ Opened issue [#112](https://github.com/joplin/plugin-templates/issues/112) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 3. 💬 Commented on [#87](https://github.com/joplin/plugin-templates/issues/87#issuecomment-3389965107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 4. 💬 Commented on [#89](https://github.com/joplin/plugin-templates/issues/89#issuecomment-3314921218) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. ⭐ Starred [PostHog/posthog](https://github.com/PostHog/posthog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
