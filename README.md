@@ -24,11 +24,12 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)<br>
-2. 💬 Commented on [#10260](https://github.com/oppia/oppia/issues/10260#issuecomment-3418448406) in [oppia/oppia](https://github.com/oppia/oppia)<br>
-3. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)<br>
-4. ❗️ Opened issue [#112](https://github.com/joplin/plugin-templates/issues/112) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 💬 Commented on [#87](https://github.com/joplin/plugin-templates/issues/87#issuecomment-3389965107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 💬 Commented on [#185](https://github.com/nishantwrp/gsoc-organizations/issues/185#issuecomment-3478305082) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ⭐ Starred [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)<br>
+3. 💬 Commented on [#10260](https://github.com/oppia/oppia/issues/10260#issuecomment-3418448406) in [oppia/oppia](https://github.com/oppia/oppia)<br>
+4. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)<br>
+5. ❗️ Opened issue [#112](https://github.com/joplin/plugin-templates/issues/112) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. 💬 Commented on [#87](https://github.com/joplin/plugin-templates/issues/87#issuecomment-3389965107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
