@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#186](https://github.com/nishantwrp/gsoc-organizations/pull/186#issuecomment-3481849367) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. 💬 Commented on [#185](https://github.com/nishantwrp/gsoc-organizations/issues/185#issuecomment-3478305082) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. ⭐ Starred [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)<br>
-4. 💬 Commented on [#10260](https://github.com/oppia/oppia/issues/10260#issuecomment-3418448406) in [oppia/oppia](https://github.com/oppia/oppia)<br>
-5. ⭐ Starred [gpakosz/.tmux](https://github.com/gpakosz/.tmux)<br>
-6. ❗️ Opened issue [#112](https://github.com/joplin/plugin-templates/issues/112) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#87](https://github.com/joplin/plugin-templates/issues/87#issuecomment-3389965107) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 🔴 Requested 1 change(s) for [#186](https://github.com/nishantwrp/gsoc-organizations/pull/186#pullrequestreview-3436256505) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 💬 Commented on [#186](https://github.com/nishantwrp/gsoc-organizations/pull/186#discussion_r2505405784) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 💬 Commented on [#186](https://github.com/nishantwrp/gsoc-organizations/pull/186#discussion_r2505399620) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#186](https://github.com/nishantwrp/gsoc-organizations/pull/186#discussion_r2505398351) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 💬 Commented on [#186](https://github.com/nishantwrp/gsoc-organizations/pull/186#issuecomment-3481849367) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. 💬 Commented on [#185](https://github.com/nishantwrp/gsoc-organizations/issues/185#issuecomment-3478305082) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. ⭐ Starred [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
