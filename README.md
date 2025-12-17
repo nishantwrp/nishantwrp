@@ -24,9 +24,10 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
-2. 🔴 Requested 1 change(s) for [#188](https://github.com/nishantwrp/gsoc-organizations/pull/188#pullrequestreview-3474348214) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. 💬 Commented on [#188](https://github.com/nishantwrp/gsoc-organizations/pull/188#discussion_r2535344849) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 💬 Commented on [#194](https://github.com/nishantwrp/gsoc-organizations/pull/194#issuecomment-3664486218) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ⬆️ Pushed undefined commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+3. 🔴 Requested 1 change(s) for [#188](https://github.com/nishantwrp/gsoc-organizations/pull/188#pullrequestreview-3474348214) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#188](https://github.com/nishantwrp/gsoc-organizations/pull/188#discussion_r2535344849) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
