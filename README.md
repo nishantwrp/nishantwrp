@@ -26,7 +26,6 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#194](https://github.com/nishantwrp/gsoc-organizations/pull/194#issuecomment-3666585063) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 2. 💬 Commented on [#194](https://github.com/nishantwrp/gsoc-organizations/pull/194#issuecomment-3664486218) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. ⬆️ Pushed undefined commit(s) to [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
