@@ -24,6 +24,7 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
+1. 💬 Commented on [#8485](https://github.com/oppia/oppia/issues/8485#issuecomment-3795656412) in [oppia/oppia](https://github.com/oppia/oppia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
