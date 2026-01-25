@@ -24,7 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8485](https://github.com/oppia/oppia/issues/8485#issuecomment-3795656412) in [oppia/oppia](https://github.com/oppia/oppia)<br>
+1. 💪 Opened PR [#199](undefined) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. 👍 Approved [#198](https://github.com/nishantwrp/gsoc-organizations/pull/198#pullrequestreview-3704023840) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 💬 Commented on [#43](https://github.com/nishantwrp/vue-gitalk/pull/43#issuecomment-3796822980) in [nishantwrp/vue-gitalk](https://github.com/nishantwrp/vue-gitalk)<br>
+4. 💬 Commented on [#197](https://github.com/nishantwrp/gsoc-organizations/issues/197#issuecomment-3796820303) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. 💬 Commented on [#198](https://github.com/nishantwrp/gsoc-organizations/pull/198#discussion_r2725613038) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. 💬 Commented on [#198](https://github.com/nishantwrp/gsoc-organizations/pull/198#discussion_r2725609323) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 💬 Commented on [#8485](https://github.com/oppia/oppia/issues/8485#issuecomment-3795656412) in [oppia/oppia](https://github.com/oppia/oppia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
