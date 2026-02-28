@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#146](https://github.com/joplin/plugin-templates/pull/146#discussion_r2867612425) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. 🔴 Requested 1 change(s) for [#146](https://github.com/joplin/plugin-templates/pull/146#pullrequestreview-3870376981) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. 💬 Commented on [#146](https://github.com/joplin/plugin-templates/pull/146#discussion_r2867375654) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. ⭐ Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)<br>
-5. 👍 Approved [#141](https://github.com/joplin/plugin-templates/pull/141#pullrequestreview-3865109693) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. 💬 Commented on [#141](https://github.com/joplin/plugin-templates/pull/141#discussion_r2862702116) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#141](https://github.com/joplin/plugin-templates/pull/141#discussion_r2848705056) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 🔴 Requested 1 change(s) for [#128](https://github.com/joplin/plugin-templates/pull/128#pullrequestreview-3870625872) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. 👍 Approved [#128](https://github.com/joplin/plugin-templates/pull/128#pullrequestreview-3870625281) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. 🔴 Requested 1 change(s) for [#131](https://github.com/joplin/plugin-templates/pull/131#pullrequestreview-3870618974) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. ❌ Closed PR [#132](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. 💬 Commented on [#132](https://github.com/joplin/plugin-templates/pull/132#issuecomment-3977460102) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. 🔴 Requested 1 change(s) for [#137](https://github.com/joplin/plugin-templates/pull/137#pullrequestreview-3870611421) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. 💬 Commented on [#137](https://github.com/joplin/plugin-templates/pull/137#discussion_r2867674244) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
