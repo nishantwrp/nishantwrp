@@ -25,12 +25,12 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. ✔️ Closed issue [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. 💬 Commented on [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191#issuecomment-3980058454) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. ✔️ Closed issue [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. 💬 Commented on [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191#issuecomment-3980058454) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 5. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 6. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. 🔴 Requested 1 change(s) for [#146](https://github.com/joplin/plugin-templates/pull/146#pullrequestreview-3871683318) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
