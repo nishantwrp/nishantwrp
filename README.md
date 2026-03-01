@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested 1 change(s) for [#146](https://github.com/joplin/plugin-templates/pull/146#pullrequestreview-3871683318) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. 💬 Commented on [#146](https://github.com/joplin/plugin-templates/pull/146#discussion_r2868608987) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. 💬 Commented on [#146](https://github.com/joplin/plugin-templates/pull/146#discussion_r2868606127) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. 💬 Commented on [#146](https://github.com/joplin/plugin-templates/pull/146#discussion_r2868600587) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 💬 Commented on [#131](https://github.com/joplin/plugin-templates/pull/131#issuecomment-3978361380) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+2. ✔️ Closed issue [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+3. 💬 Commented on [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191#issuecomment-3980058454) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+5. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 6. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 🔴 Requested 1 change(s) for [#146](https://github.com/joplin/plugin-templates/pull/146#pullrequestreview-3871683318) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
