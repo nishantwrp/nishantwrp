@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-3. ✔️ Closed issue [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-4. 💬 Commented on [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191#issuecomment-3980058454) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+1. 💬 Commented on [#147](https://github.com/joplin/plugin-templates/pull/147#issuecomment-3982500521) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. ⬆️ Pushed undefined commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. 👍 Approved [#138](https://github.com/joplin/plugin-templates/pull/138#pullrequestreview-3874383265) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 5. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-6. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-7. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+6. ✔️ Closed issue [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+7. 💬 Commented on [#191](https://github.com/nishantwrp/gsoc-organizations/issues/191#issuecomment-3980058454) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
