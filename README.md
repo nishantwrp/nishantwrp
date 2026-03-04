@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#issuecomment-3993051012) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-2. 🔴 Requested 1 change(s) for [#145](https://github.com/joplin/plugin-templates/pull/145#pullrequestreview-3884562885) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2880045571) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2880039217) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2880028058) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2880026667) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2880023766) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883456961) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883439294) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883428457) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+4. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883423589) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883418346) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883403298) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883400619) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
