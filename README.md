@@ -24,13 +24,13 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
-2. ❌ Closed PR [#130](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-3. ❌ Closed PR [#137](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-4. ❌ Closed PR [#145](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-5. 💬 Commented on [#149](https://github.com/joplin/plugin-templates/pull/149#issuecomment-4004190748) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-6. ❌ Closed PR [#149](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-7. 💬 Commented on [#145](https://github.com/joplin/plugin-templates/pull/145#discussion_r2883456961) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+1. 💬 Commented on [#150](https://github.com/joplin/plugin-templates/pull/150#issuecomment-4010762882) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+2. ❌ Closed PR [#150](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+3. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
+4. ❌ Closed PR [#130](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+5. ❌ Closed PR [#137](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+6. ❌ Closed PR [#145](undefined) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
+7. 💬 Commented on [#149](https://github.com/joplin/plugin-templates/pull/149#issuecomment-4004190748) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </td>
