@@ -12,3 +12,7 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+            COMMIT_NAME: albusbot
+            COMMIT_EMAIL: bot@nishantwrp.com
+            COMMIT_MSG: "chore: fetch latest github activity"
