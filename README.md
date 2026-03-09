@@ -23,7 +23,7 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 <td valign="top" width="100%">
 
 ### Recent GitHub Activity
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
 1. ⬆️ Pushed undefined commit(s) to [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)<br>
 2. ⬆️ Pushed undefined commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 3. ⬆️ Pushed undefined commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
@@ -31,7 +31,7 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 5. ⬆️ Pushed undefined commit(s) to [nishantwrp/joplin-plugin-templates-store](https://github.com/nishantwrp/joplin-plugin-templates-store)<br>
 6. ✔️ Closed issue [#82](https://github.com/joplin/plugin-templates/issues/82) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
 7. ⬆️ Pushed undefined commit(s) to [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
-<!--RECENT_ACTIVITY:end-->
+<!--END_SECTION:activity-->
 
 </td>
 </tr></table>
