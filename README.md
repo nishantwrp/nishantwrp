@@ -24,8 +24,8 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#94](https://github.com/joplin/plugin-templates/issues/94) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-2. ℹ️ Reopened PR [#155](https://github.com/joplin/plugin-templates/pull/155) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+1. ❌ Closed PR [#158](https://github.com/joplin/plugin-templates/pull/158) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+2. 🔒 Closed issue [#94](https://github.com/joplin/plugin-templates/issues/94) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 3. ❌ Closed PR [#155](https://github.com/joplin/plugin-templates/pull/155) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 4. 🔒 Closed issue [#82](https://github.com/joplin/plugin-templates/issues/82) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 5. 🎉 Merged PR [#154](https://github.com/joplin/plugin-templates/pull/154) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
