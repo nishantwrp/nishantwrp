@@ -24,9 +24,9 @@ I am Nishant Mittal, a passionate software engineer, open source enthusiast and 
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#167](https://github.com/joplin/plugin-templates/pull/167) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-2. 🔒 Closed issue [#101](https://github.com/joplin/plugin-templates/issues/101) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-3. ❌ Closed PR [#155](https://github.com/joplin/plugin-templates/pull/155) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+1. ℹ️ Assigned issue [#209](https://github.com/nishantwrp/gsoc-organizations/issues/209) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+2. 🗣 Commented on [#209](https://github.com/nishantwrp/gsoc-organizations/issues/209#issuecomment-4917647186) in [nishantwrp/gsoc-organizations](https://github.com/nishantwrp/gsoc-organizations)
+3. ❌ Closed PR [#167](https://github.com/joplin/plugin-templates/pull/167) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 4. 🔒 Closed issue [#82](https://github.com/joplin/plugin-templates/issues/82) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 5. 🎉 Merged PR [#154](https://github.com/joplin/plugin-templates/pull/154) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 6. ✔️ Closed issue [#82](https://github.com/joplin/plugin-templates/issues/82) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)<br>
